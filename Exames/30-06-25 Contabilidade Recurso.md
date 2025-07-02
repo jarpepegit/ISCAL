@@ -14,20 +14,22 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 
 ## 2a) i, ii
 
-![Image](https://i.imgur.com/HOoz4dK.png)
+![2 a) i-ii](https://i.imgur.com/HOoz4dK.png)
+
+### Critérios.
+
+
 
 
 ## 2 a) iii, b)
 
-
-
-![enter image description here](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p2.png)
+![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyODkwNDA4LDE3NzM3NTExNSwtOTc3Mz
-k0NTc1LDE3ODMxODYxOTUsMjEyNDg1Mzc1NiwyODE3MDI1MDgs
-NzU2NjcwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNT
-AwNiw2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODIsMTk4
-ODUxNTE5OCwxMjY5OTQ0NjA3XX0=
+eyJoaXN0b3J5IjpbMjEzMjEwMzA4MSwxNzczNzUxMTUsLTk3Nz
+M5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4
+LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkwMD
+UwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgyLDE5
+ODg1MTUxOTgsMTI2OTk0NDYwN119
 -->
