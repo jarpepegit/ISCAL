@@ -35,14 +35,14 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 
 ![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
-### Critérios.
+### Critérios. 2 a) iii
 > - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MTg0ODI4LDI2MzUwNDAzOCwtNDI0Mj
-E1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwy
-MTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMj
-Q2LDU0NzcxMDEwNSwtMjM5MDA1MDA2LDY4NjAxMDg1MywyMTM1
-NDY1MTUwLDg2Mzc3MDU4MiwxOTg4NTE1MTk4LDEyNjk5NDQ2MD
-ddfQ==
+eyJoaXN0b3J5IjpbMzcwNjQ4MzksNzA0MTg0ODI4LDI2MzUwND
+AzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4
+MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MD
+gsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MDA2LDY4NjAx
+MDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4MiwxOTg4NTE1MTk4LD
+EyNjk5NDQ2MDddfQ==
 -->
