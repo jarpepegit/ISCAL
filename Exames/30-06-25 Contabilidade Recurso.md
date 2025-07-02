@@ -20,7 +20,8 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 > - Desenho da região admissível. **8pts**
 > - Gradiente. **2pts**
 > - Retas de nível. **2pts**
-> - 
+> - Solução ótima. **4pts**
+> - Determinação algébrica, i
 
 
 
@@ -32,7 +33,7 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDkyMDYyMCwxNzczNzUxMTUsLTk3Nz
+eyJoaXN0b3J5IjpbMTA0MzM0NTcxNywxNzczNzUxMTUsLTk3Nz
 M5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4
 LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkwMD
 UwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgyLDE5
