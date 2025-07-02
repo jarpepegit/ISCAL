@@ -46,10 +46,10 @@ a) Com base na resolução gráfica:
 **Critérios**
 - função objetivo: $z=2x_1+c_2x_2$ &nbsp;&nbsp; **(2pts)**
 - declives das retas relevantes: 
-	- $m_{r_2}=\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
-	- $m_{r_4}=+\infty$ &nbsp;&nbsp; **(1pt)**
+	- $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
+	- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
 - Análise de declives: 
-	- $\frac{1}{2}\le-\frac{2}{c_2}<+\infty \iff-\frac{1}{4}\ge\frac{1}{c_2}>-\infty$ &nbsp;&nbsp; **(3pts)** 
+	- $-\infty\le\frac{2}{c_2}<-\frac{1}{2} \iff-\frac{1}{4}\ge\frac{1}{c_2}>-\infty$ &nbsp;&nbsp; **(3pts)** 
 
 	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
 
@@ -99,5 +99,5 @@ Em conclusão, a solução ótima do problema dual é $(-1,0,0)$. O valor ótimo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEzMTkwMjZdfQ==
+eyJoaXN0b3J5IjpbLTczMzE1NjQ0NywtMTIxMTMxOTAyNl19
 -->
