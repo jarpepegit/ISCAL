@@ -36,10 +36,10 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
 ### Critérios. 2 a) iii
-> - Função objetivo: $z=-2x_1+c_2x_2$
+> - Função objetivo: $z=-2x_1+c_2x_2\quad\implies\quad m_z=\frac{2}{c_2}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzQzMTg5NywzNzA2NDgzOSw3MDQxOD
+eyJoaXN0b3J5IjpbMTk0NDExODk0NSwzNzA2NDgzOSw3MDQxOD
 Q4MjgsMjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3
 NzM5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNT
 A4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkw
