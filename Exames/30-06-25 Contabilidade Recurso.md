@@ -8,14 +8,16 @@
 
 ![enter image description here](https://imgur.com/a/UzJ6sNd)
 
+![enter image description here](https://imgur.com/HOoz4dK)
+
 ## 2 a) iii, b)
 
 ![enter image description here](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p2.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2Nj
-cwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNiw2
-ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODIsMTk4ODUxNT
-E5OCwxMjY5OTQ0NjA3XX0=
+eyJoaXN0b3J5IjpbMTQxMDUyODQ5LDIxMjQ4NTM3NTYsMjgxNz
+AyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0y
+MzkwMDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNT
+gyLDE5ODg1MTUxOTgsMTI2OTk0NDYwN119
 -->
