@@ -10,13 +10,16 @@
 
 ![Imgur](https://imgur.com/HOoz4dK)
 
+![Image](https://i.imgur.com/HOoz4dK.png)
+
+
 ## 2 a) iii, b)
 
 ![enter image description here](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p2.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODY4NTIyMCwyMTI0ODUzNzU2LDI4MT
+eyJoaXN0b3J5IjpbMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MT
 cwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwt
 MjM5MDA1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MD
 U4MiwxOTg4NTE1MTk4LDEyNjk5NDQ2MDddfQ==
