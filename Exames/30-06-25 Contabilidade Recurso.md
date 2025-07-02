@@ -1,6 +1,6 @@
 # 2.
 
-O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o que sim funcionou.
+O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou.
 
 ![Parte 2](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p1.png)
 
@@ -36,9 +36,10 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 ### Critérios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNz
-UxMTUsLTk3NzM5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYs
-MjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMT
-A1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYz
-NzcwNTgyLDE5ODg1MTUxOTgsMTI2OTk0NDYwN119
+eyJoaXN0b3J5IjpbNjAyOTIwODcyLDI2MzUwNDAzOCwtNDI0Mj
+E1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwy
+MTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMj
+Q2LDU0NzcxMDEwNSwtMjM5MDA1MDA2LDY4NjAxMDg1MywyMTM1
+NDY1MTUwLDg2Mzc3MDU4MiwxOTg4NTE1MTk4LDEyNjk5NDQ2MD
+ddfQ==
 -->
