@@ -25,7 +25,7 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 > - Valor ótimo. **2pts**
 
 ### Critérios. 2 a) ii
-> -  
+> - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). ** 
 
 
 
@@ -36,7 +36,7 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 ### Critérios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwOTExNTE3LC00MjQyMTU4MSwxNzczNz
+eyJoaXN0b3J5IjpbMjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNz
 UxMTUsLTk3NzM5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYs
 MjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMT
 A1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYz
