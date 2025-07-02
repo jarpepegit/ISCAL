@@ -49,7 +49,7 @@ a) Com base na resolução gráfica:
 	- $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
 	- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
 - Análise de declives: 
-	- $-\infty\le\frac{2}{c_2}<-\frac{1}{2} \iff-\frac{1}{4}\ge\frac{1}{c_2}>-\infty$ &nbsp;&nbsp; **(3pts)** 
+	- $-\frac{1}{2}\le-\frac{2}{c_2}<+\infty \iff-\frac{1}{4}\ge\frac{1}{c_2}>-\infty$ &nbsp;&nbsp; **(3pts)** 
 
 	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
 
@@ -99,5 +99,6 @@ Em conclusão, a solução ótima do problema dual é $(-1,0,0)$. O valor ótimo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzE1NjQ0NywtMTIxMTMxOTAyNl19
+eyJoaXN0b3J5IjpbLTE3MDA1MDUzOCwtNzMzMTU2NDQ3LC0xMj
+ExMzE5MDI2XX0=
 -->
