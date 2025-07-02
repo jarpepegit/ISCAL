@@ -4,13 +4,15 @@
 
 ![Parte 2](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p1.png)
 
+![porque não funciona?](https://www.dropbox.com/scl/fi/fzgwrou3osuzu0621wn8q/criterios-p1.png?rlkey=u4mhuncre74yt4m0opz8eau0z&st=dwdo60ds&dl=0)
+
 ## 2 a) iii, b)
 
 ![enter image description here](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p2.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MD
-A1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Miwx
-OTg4NTE1MTk4LDEyNjk5NDQ2MDddfQ==
+eyJoaXN0b3J5IjpbNzU2NjcwNDA4LDMzOTA0MjI0Niw1NDc3MT
+AxMDUsLTIzOTAwNTAwNiw2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4
+NjM3NzA1ODIsMTk4ODUxNTE5OCwxMjY5OTQ0NjA3XX0=
 -->
