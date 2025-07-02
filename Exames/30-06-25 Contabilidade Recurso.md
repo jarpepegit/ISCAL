@@ -36,13 +36,13 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
 ### Critérios. 2 a) iii
-> - 
+> - Função objetivo: $z=-2x_1+c_2x_2$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNjQ4MzksNzA0MTg0ODI4LDI2MzUwND
-AzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4
-MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MD
-gsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MDA2LDY4NjAx
-MDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4MiwxOTg4NTE1MTk4LD
-EyNjk5NDQ2MDddfQ==
+eyJoaXN0b3J5IjpbMTU2NzQzMTg5NywzNzA2NDgzOSw3MDQxOD
+Q4MjgsMjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3
+NzM5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNT
+A4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkw
+MDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgyLD
+E5ODg1MTUxOTgsMTI2OTk0NDYwN119
 -->
