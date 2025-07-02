@@ -44,11 +44,14 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 	- $-\infty<\frac{2}{c_2}\le-\frac{1}{2} \iff-\infty<\frac{1}{c_2}\le-\frac{1}{4}$ &nbsp;&nbsp; **(3pts)** 
 	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
 
+---
+b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementaridade, determine a correspondente solução ótima e o respectivo valor, sabendo que $(x_1^\ast,x_2^\ast)=(4,0)$ é a solução ótima do modelo primal. 
 ### Critérios. 2 b)
-> - 
+> - Formulação do problema dual. &nbsp;&nbsp; **(8pts)** 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTM0NDk2Myw1MjA1NDIyODMsMzcwNj
+eyJoaXN0b3J5IjpbLTgwMTEzMzk1Nyw1MjA1NDIyODMsMzcwNj
 Q4MzksNzA0MTg0ODI4LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3
 Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNz
 U2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0Nzcx
