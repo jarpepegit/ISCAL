@@ -17,6 +17,8 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 ![2 a) i-ii](https://i.imgur.com/HOoz4dK.png)
 
 ### Critérios.
+> - 
+
 
 
 
@@ -27,9 +29,9 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjEwMzA4MSwxNzczNzUxMTUsLTk3Nz
-M5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4
-LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkwMD
-UwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgyLDE5
-ODg1MTUxOTgsMTI2OTk0NDYwN119
+eyJoaXN0b3J5IjpbMzUyMjY2MjYsMTc3Mzc1MTE1LC05NzczOT
+Q1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3
+NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MD
+A2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4MiwxOTg4
+NTE1MTk4LDEyNjk5NDQ2MDddfQ==
 -->
