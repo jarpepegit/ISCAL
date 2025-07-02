@@ -14,6 +14,9 @@
 
 ![enter image description here](https://github.com/jarpepegit/ISCAL/raw/main/Exames/criterios-p1.png)
 
+![enter image description here](https://www.dropbox.com/scl/fi/fzgwrou3osuzu0621wn8q/criterios-p1.png?rlkey=u4mhuncre74yt4m0opz8eau0z&st=mhz452ii&dl=0)
+
+
 
 
 ## 2 a) iii, b)
@@ -22,9 +25,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzM5NDU3NSwxNzgzMTg2MTk1LDIxMj
-Q4NTM3NTYsMjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYs
-NTQ3NzEwMTA1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIxMzU0Nj
-UxNTAsODYzNzcwNTgyLDE5ODg1MTUxOTgsMTI2OTk0NDYwN119
-
+eyJoaXN0b3J5IjpbMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4Mz
+E4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MDgs
+MzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MDA2LDY4NjAxMD
+g1MywyMTM1NDY1MTUwLDg2Mzc3MDU4MiwxOTg4NTE1MTk4LDEy
+Njk5NDQ2MDddfQ==
 -->
