@@ -6,7 +6,7 @@
 
 ![porque não funciona?](https://www.dropbox.com/scl/fi/fzgwrou3osuzu0621wn8q/criterios-p1.png?rlkey=u4mhuncre74yt4m0opz8eau0z&st=dwdo60ds&dl=0)
 
-
+![enter image description here](https://imgur.com/a/UzJ6sNd)
 
 ## 2 a) iii, b)
 
@@ -14,8 +14,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwND
-IyNDYsNTQ3NzEwMTA1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIx
-MzU0NjUxNTAsODYzNzcwNTgyLDE5ODg1MTUxOTgsMTI2OTk0ND
-YwN119
+eyJoaXN0b3J5IjpbMjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2Nj
+cwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNiw2
+ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODIsMTk4ODUxNT
+E5OCwxMjY5OTQ0NjA3XX0=
 -->
