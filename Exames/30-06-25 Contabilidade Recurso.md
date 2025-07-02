@@ -6,10 +6,11 @@
 
 ## 2 a) iii, b)
 
-![enter image description here](https://github.com/jarpepegit/ISCAL/blob/464f638772692f7f11379d2962de4a73bb02517b/Exames/criterios-p2.png)
+![enter image description here](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p2.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQyNjkyMTksNTQ3NzEwMTA1LC0yMz
-kwMDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgy
-LDE5ODg1MTUxOTgsMTI2OTk0NDYwN119
+eyJoaXN0b3J5IjpbMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MD
+A1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Miwx
+OTg4NTE1MTk4LDEyNjk5NDQ2MDddfQ==
 -->
