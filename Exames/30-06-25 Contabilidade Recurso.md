@@ -25,7 +25,8 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 > - Valor ótimo. **2pts**
 
 ### Critérios. 2 a) ii
-> - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). ** 
+> - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). **2.5pts**
+> -  Vetor gradiente da nova função objetivo
 
 
 
@@ -36,10 +37,10 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ### Critérios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDU1NTQ1MiwyNjM1MDQwMzgsLTQyND
-IxNTgxLDE3NzM3NTExNSwtOTc3Mzk0NTc1LDE3ODMxODYxOTUs
-MjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2NjcwNDA4LDMzOTA0Mj
-I0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNiw2ODYwMTA4NTMsMjEz
-NTQ2NTE1MCw4NjM3NzA1ODIsMTk4ODUxNTE5OCwxMjY5OTQ0Nj
-A3XX0=
+eyJoaXN0b3J5IjpbLTE5Mjk2Nzc2OTUsMjYzNTA0MDM4LC00Mj
+QyMTU4MSwxNzczNzUxMTUsLTk3NzM5NDU3NSwxNzgzMTg2MTk1
+LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwND
+IyNDYsNTQ3NzEwMTA1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIx
+MzU0NjUxNTAsODYzNzcwNTgyLDE5ODg1MTUxOTgsMTI2OTk0ND
+YwN119
 -->
