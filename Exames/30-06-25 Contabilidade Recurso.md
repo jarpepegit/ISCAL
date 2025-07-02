@@ -25,8 +25,9 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 > - Valor ótimo. **2pts**
 
 ### Critérios. 2 a) ii
-> - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). **2.5pts**
-> -  Vetor gradiente da nova função objetivo
+> - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). **2,5pts**
+> -  Vetor gradiente da nova função objetivo: sentido oposto ao gradiente da linha de fronteira que contem a solução ótima da parte i). **2,5pts**
+> - Solução ótima múltipla: combinação donv
 
 
 
@@ -37,7 +38,7 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ### Critérios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk2Nzc2OTUsMjYzNTA0MDM4LC00Mj
+eyJoaXN0b3J5IjpbLTExNzY5MzM3ODQsMjYzNTA0MDM4LC00Mj
 QyMTU4MSwxNzczNzUxMTUsLTk3NzM5NDU3NSwxNzgzMTg2MTk1
 LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwND
 IyNDYsNTQ3NzEwMTA1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIx
