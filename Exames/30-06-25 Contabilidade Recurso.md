@@ -16,7 +16,7 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 
 ![2 a) i-ii](https://i.imgur.com/HOoz4dK.png)
 
-### Critérios.
+### Critérios. 2 a) i
 > - Desenho da região admissível. **8pts**
 > - Gradiente. **2pts**
 > - Retas de nível. **2pts**
@@ -24,7 +24,8 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 > - Determinação algébrica da solução ótima, identificando as equações de fronteira relevantes. **2pts**
 > - Valor ótimo. **2pts**
 
-
+### Critérios. 2 a) ii
+> -  
 
 
 
@@ -32,11 +33,12 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 
 ![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
+### Critérios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDIxNTgxLDE3NzM3NTExNSwtOTc3Mz
-k0NTc1LDE3ODMxODYxOTUsMjEyNDg1Mzc1NiwyODE3MDI1MDgs
-NzU2NjcwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNT
-AwNiw2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODIsMTk4
-ODUxNTE5OCwxMjY5OTQ0NjA3XX0=
+eyJoaXN0b3J5IjpbNzUwOTExNTE3LC00MjQyMTU4MSwxNzczNz
+UxMTUsLTk3NzM5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYs
+MjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMT
+A1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYz
+NzcwNTgyLDE5ODg1MTUxOTgsMTI2OTk0NDYwN119
 -->
