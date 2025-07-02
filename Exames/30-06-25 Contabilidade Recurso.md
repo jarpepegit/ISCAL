@@ -36,7 +36,7 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
 ### Critérios. 2 a) iii
-> - Função objetivo: $z=-2x_1+c_2x_2\quad\implies\quad m_z=\frac{2}{c_2}$ &nbsp;&nbsp; **2pts**
+> - Função objetivo: $z=-2x_1+c_2x_2\quad\implies\quad m_z=\frac{2}{c_2}$ &nbsp;&nbsp; **(2pts)**
 > - Declives das retas relevantes: 
 	- $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
 	- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
@@ -44,11 +44,14 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 	- $-\infty<\frac{2}{c_2}\le-\frac{1}{2} \iff-\infty<\frac{1}{c_2}\le-\frac{1}{4}$ &nbsp;&nbsp; **(3pts)** 
 	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
 
+### Critérios. 2 b)
+> - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MTQyMjQzLDUyMDU0MjI4MywzNzA2ND
-gzOSw3MDQxODQ4MjgsMjYzNTA0MDM4LC00MjQyMTU4MSwxNzcz
-NzUxMTUsLTk3NzM5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NT
-YsMjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEw
-MTA1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsOD
-YzNzcwNTgyLDE5ODg1MTUxOTgsMTI2OTk0NDYwN119
+eyJoaXN0b3J5IjpbLTk1MTM0NDk2Myw1MjA1NDIyODMsMzcwNj
+Q4MzksNzA0MTg0ODI4LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3
+Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNz
+U2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0Nzcx
+MDEwNSwtMjM5MDA1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwLD
+g2Mzc3MDU4MiwxOTg4NTE1MTk4LDEyNjk5NDQ2MDddfQ==
 -->
