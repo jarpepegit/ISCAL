@@ -41,12 +41,11 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 	- $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
 	- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
 - Análise de declives: 
-	- $-\infty\le\frac{2}{c_2}<-\frac{1}{2} \iff-\frac{1}{4}\ge\frac{1}{c_2}>-\infty$ &nbsp;&nbsp; **(3pts)** 
-
+	- $-\infty\le\frac{2}{c_2}<-\frac{1}{2} \iff-\infty\ge\frac{1}{c_2}<-\frac{1}{4}$ &nbsp;&nbsp; **(2pts)** 
 	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTk4MDYyOCw1MjA1NDIyODMsMzcwNj
+eyJoaXN0b3J5IjpbMTUyODU2MDg1Nyw1MjA1NDIyODMsMzcwNj
 Q4MzksNzA0MTg0ODI4LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3
 Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNz
 U2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0Nzcx
