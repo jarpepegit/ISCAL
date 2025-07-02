@@ -21,7 +21,8 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 > - Gradiente. **2pts**
 > - Retas de nível. **2pts**
 > - Solução ótima. **4pts**
-> - Determinação algébrica, i
+> - Determinação algébrica da solução ótima, identificando as equações de fronteira relevantes. **2pts**
+> - Valor ótimo. **2pts**
 
 
 
@@ -33,9 +34,9 @@ O repositório é privado. A seguir coisas que não funcionaram, e, ao final, o 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzM0NTcxNywxNzczNzUxMTUsLTk3Nz
-M5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4
-LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkwMD
-UwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgyLDE5
-ODg1MTUxOTgsMTI2OTk0NDYwN119
+eyJoaXN0b3J5IjpbLTQyNDIxNTgxLDE3NzM3NTExNSwtOTc3Mz
+k0NTc1LDE3ODMxODYxOTUsMjEyNDg1Mzc1NiwyODE3MDI1MDgs
+NzU2NjcwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNT
+AwNiw2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODIsMTk4
+ODUxNTE5OCwxMjY5OTQ0NjA3XX0=
 -->
