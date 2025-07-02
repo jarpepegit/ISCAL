@@ -38,12 +38,18 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ### Critérios. 2 a) iii
 > - Função objetivo: $z=-2x_1+c_2x_2\quad\implies\quad m_z=\frac{2}{c_2}$ **2pts**
 > - Declives das retas relevantes: 
+	- $m_{r_2}=\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
+	- $m_{r_4}=+\infty$ &nbsp;&nbsp; **(1pt)**
+- Análise de declives: 
+	- $\frac{1}{2}\le-\frac{2}{c_2}<+\infty \iff-\frac{1}{4}\ge\frac{1}{c_2}>-\infty$ &nbsp;&nbsp; **(3pts)** 
+
+	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI0NDI3MTgsMzcwNjQ4MzksNzA0MT
-g0ODI4LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05
-NzczOTQ1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMj
-UwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5
-MDA1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Mi
-wxOTg4NTE1MTk4LDEyNjk5NDQ2MDddfQ==
+eyJoaXN0b3J5IjpbNTIwNTQyMjgzLDM3MDY0ODM5LDcwNDE4ND
+gyOCwyNjM1MDQwMzgsLTQyNDIxNTgxLDE3NzM3NTExNSwtOTc3
+Mzk0NTc1LDE3ODMxODYxOTUsMjEyNDg1Mzc1NiwyODE3MDI1MD
+gsNzU2NjcwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAw
+NTAwNiw2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODIsMT
+k4ODUxNTE5OCwxMjY5OTQ0NjA3XX0=
 -->
