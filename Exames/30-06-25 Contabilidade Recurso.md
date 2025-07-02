@@ -8,7 +8,7 @@
 
 ![enter image description here](https://imgur.com/a/UzJ6sNd)
 
-![enter image description here](https://imgur.com/HOoz4dK)
+![Imgur](https://imgur.com/HOoz4dK)
 
 ## 2 a) iii, b)
 
@@ -16,8 +16,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDUyODQ5LDIxMjQ4NTM3NTYsMjgxNz
-AyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0y
-MzkwMDUwMDYsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNT
-gyLDE5ODg1MTUxOTgsMTI2OTk0NDYwN119
+eyJoaXN0b3J5IjpbMTgxODY4NTIyMCwyMTI0ODUzNzU2LDI4MT
+cwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwt
+MjM5MDA1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MD
+U4MiwxOTg4NTE1MTk4LDEyNjk5NDQ2MDddfQ==
 -->
