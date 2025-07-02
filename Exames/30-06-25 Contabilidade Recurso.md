@@ -27,7 +27,7 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ### Critérios. 2 a) ii
 > - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). **2,5pts**
 > -  Vetor gradiente da nova função objetivo: sentido oposto ao gradiente da linha de fronteira que contem a solução ótima da parte i). **2,5pts**
-> - Solução ótima múltipla: combinação donv
+> - Solução ótima múltipla: combinação convexa dos vértices $(4,3)$ e $(0,5)$. **5pts**
 
 
 
@@ -38,10 +38,10 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ### Critérios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY5MzM3ODQsMjYzNTA0MDM4LC00Mj
-QyMTU4MSwxNzczNzUxMTUsLTk3NzM5NDU3NSwxNzgzMTg2MTk1
-LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1NjY3MDQwOCwzMzkwND
-IyNDYsNTQ3NzEwMTA1LC0yMzkwMDUwMDYsNjg2MDEwODUzLDIx
-MzU0NjUxNTAsODYzNzcwNTgyLDE5ODg1MTUxOTgsMTI2OTk0ND
-YwN119
+eyJoaXN0b3J5IjpbMTY4OTc5NTkzOSwyNjM1MDQwMzgsLTQyND
+IxNTgxLDE3NzM3NTExNSwtOTc3Mzk0NTc1LDE3ODMxODYxOTUs
+MjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2NjcwNDA4LDMzOTA0Mj
+I0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNiw2ODYwMTA4NTMsMjEz
+NTQ2NTE1MCw4NjM3NzA1ODIsMTk4ODUxNTE5OCwxMjY5OTQ0Nj
+A3XX0=
 -->
