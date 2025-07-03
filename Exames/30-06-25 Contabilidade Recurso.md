@@ -51,13 +51,14 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > > - Função objetivo do dual. &nbsp;&nbsp; **(2pts)**
 > > - Restrições. &nbsp;&nbsp; **(4pts)**
 > > - Condições sobre as variáveis de decisão. &nbsp;&nbsp; **(2pts)**   
+> - Uso das con
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUzMjI0MjgsMTk3NjA0Mjg3OCw1Mj
-A1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4LDI2MzUwNDAzOCwt
-NDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4Nj
-E5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5
-MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MDA2LDY4NjAxMDg1My
-wyMTM1NDY1MTUwLDg2Mzc3MDU4MiwxOTg4NTE1MTk4XX0=
+eyJoaXN0b3J5IjpbLTIwNzUyNzcwODIsLTEwMzUzMjI0MjgsMT
+k3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4
+LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOT
+Q1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3
+NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MD
+A2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Ml19
 -->
