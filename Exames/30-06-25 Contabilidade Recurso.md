@@ -1,5 +1,7 @@
 # 2.
 
+Una sorpresita!
+
 <!-- O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com
 ![Parte 2](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p1.png)
 ![Parte 2 a) i-ii](https://github.com/jarpepegit/ISCAL/raw/main/Exames/criterios-p1.png)
@@ -58,11 +60,11 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjYzMTc0MiwtMTg0MTM1NTA0MywxND
-M5MzY1MjM5LC0xODQxMzU1MDQzLDEwMzI2MzE3NDIsODUwNDQy
-NjUxLC0xMDM1MzIyNDI4LDE5NzYwNDI4NzgsNTIwNTQyMjgzLD
-M3MDY0ODM5LDcwNDE4NDgyOCwyNjM1MDQwMzgsLTQyNDIxNTgx
-LDE3NzM3NTExNSwtOTc3Mzk0NTc1LDE3ODMxODYxOTUsMjEyND
-g1Mzc1NiwyODE3MDI1MDgsNzU2NjcwNDA4LDMzOTA0MjI0Nl19
-
+eyJoaXN0b3J5IjpbMjAwMzE1ODAyMSwxMDMyNjMxNzQyLC0xOD
+QxMzU1MDQzLDE0MzkzNjUyMzksLTE4NDEzNTUwNDMsMTAzMjYz
+MTc0Miw4NTA0NDI2NTEsLTEwMzUzMjI0MjgsMTk3NjA0Mjg3OC
+w1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4LDI2MzUwNDAz
+OCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4Mz
+E4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MDhd
+fQ==
 -->
