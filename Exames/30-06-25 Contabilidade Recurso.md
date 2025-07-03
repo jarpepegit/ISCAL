@@ -54,10 +54,11 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Uso das condições de complementaridade.
 > > - Restrições com folga no primal. &nbsp; &nbsp;**(4pts)**
 > > - Restrições sem folga no dual. &nbsp; &nbsp;**(4pts)**
-
+> - Solução ótima. &nbsp; &nbsp;**(3pts)**
+> - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjQxOTE5MSwtMTAzNTMyMjQyOCwxOT
+eyJoaXN0b3J5IjpbMTM2ODQ5NzM5MSwtMTAzNTMyMjQyOCwxOT
 c2MDQyODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MDQxODQ4Mjgs
 MjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3NzM5ND
 U3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1
