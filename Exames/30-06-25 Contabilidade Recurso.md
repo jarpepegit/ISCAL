@@ -1,18 +1,13 @@
 # 2.
 
-O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com
-
+<!-- O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com
 ![Parte 2](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p1.png)
-
 ![Parte 2 a) i-ii](https://github.com/jarpepegit/ISCAL/raw/main/Exames/criterios-p1.png)
-
 ![porque não funciona?](https://www.dropbox.com/scl/fi/fzgwrou3osuzu0621wn8q/criterios-p1.png?rlkey=u4mhuncre74yt4m0opz8eau0z&st=dwdo60ds&dl=0)
-
 ![Usando um repositório de imagens público](https://imgur.com/a/UzJ6sNd)
+![Imgur](https://imgur.com/HOoz4dK) -->
 
-![Imgur](https://imgur.com/HOoz4dK)
-
-## 2a) i, ii
+## 2 a) i, ii
 
 ![2 a) i-ii](https://i.imgur.com/HOoz4dK.png)
 
@@ -63,10 +58,10 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNDQyNjUxLC0xMDM1MzIyNDI4LDE5Nz
-YwNDI4NzgsNTIwNTQyMjgzLDM3MDY0ODM5LDcwNDE4NDgyOCwy
-NjM1MDQwMzgsLTQyNDIxNTgxLDE3NzM3NTExNSwtOTc3Mzk0NT
-c1LDE3ODMxODYxOTUsMjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2
-NjcwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNi
-w2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODJdfQ==
+eyJoaXN0b3J5IjpbMTAzMjYzMTc0Miw4NTA0NDI2NTEsLTEwMz
+UzMjI0MjgsMTk3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNjQ4Mzks
+NzA0MTg0ODI4LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MT
+E1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4
+MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNS
+wtMjM5MDA1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwXX0=
 -->
