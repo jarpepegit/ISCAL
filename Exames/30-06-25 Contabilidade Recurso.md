@@ -13,7 +13,7 @@ Una sorpresita!
 
 ![2 a) i-ii](https://i.imgur.com/HOoz4dK.png)
 
- 2 a) i **[20]** Determine, usando o vetor gradiente, a solução ótima de M1 e o respetivo valor ótimo.
+ 2 a) i **[20]** Determine, usando o vetor gradiente, a solução ótima de **M1** e o respetivo valor ótimo.
 ### Critérios. 2 a) i
 > - Desenho da região admissível. &nbsp;&nbsp; **(8pts)**
 > - Gradiente. &nbsp;&nbsp; **(2pts)**
@@ -60,7 +60,7 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzE1ODAyMSwxMDMyNjMxNzQyLC0xOD
+eyJoaXN0b3J5IjpbLTMyOTU3MDI5OSwxMDMyNjMxNzQyLC0xOD
 QxMzU1MDQzLDE0MzkzNjUyMzksLTE4NDEzNTUwNDMsMTAzMjYz
 MTc0Miw4NTA0NDI2NTEsLTEwMzUzMjI0MjgsMTk3NjA0Mjg3OC
 w1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4LDI2MzUwNDAz
