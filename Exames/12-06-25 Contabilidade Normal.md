@@ -1,4 +1,7 @@
 # 2.
+
+Otra sorpresita!
+
 Considere os seguintes modelos de programação linear **M1** e **M2**:
 $$(\textsf{M1})\begin{array}{rc}
 \max & z=2 x_1-x_2 \\[1ex]
@@ -96,6 +99,6 @@ Como $x_1^\ast\neq 0$; então $y_1^\ast+2y_2^\ast+y_3^\ast=-1$, e, em consequên
 
 Em conclusão, a solução ótima do problema dual é $(-1,0,0)$. O valor ótimo correspondente é $w^\ast=-4=z^\ast$. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM0MjY4OTAsLTQyNzY4MDc5Niw2Mz
-EzNjYxNDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzc4ODAwMDUsLTEyOTM0MjY4OTAsLT
+QyNzY4MDc5Niw2MzEzNjYxNDVdfQ==
 -->
