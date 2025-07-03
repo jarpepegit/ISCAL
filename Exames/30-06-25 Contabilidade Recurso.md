@@ -51,14 +51,16 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > > - Função objetivo do dual. &nbsp;&nbsp; **(2pts)**
 > > - Restrições. &nbsp;&nbsp; **(4pts)**
 > > - Condições sobre as variáveis de decisão. &nbsp;&nbsp; **(2pts)**   
-> - Uso das con
+> - Uso das condições de complementaridade.
+> > - Restrições com folga no primal. &nbsp; &nbsp;**(4pts)**
+> > - Restrições sem folga no dual. &nbsp; &nbsp;**(4pts)**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUyNzcwODIsLTEwMzUzMjI0MjgsMT
-k3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4
-LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOT
-Q1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3
-NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MD
-A2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Ml19
+eyJoaXN0b3J5IjpbMTIyOTk3MjkzLC0xMDM1MzIyNDI4LDE5Nz
+YwNDI4NzgsNTIwNTQyMjgzLDM3MDY0ODM5LDcwNDE4NDgyOCwy
+NjM1MDQwMzgsLTQyNDIxNTgxLDE3NzM3NTExNSwtOTc3Mzk0NT
+c1LDE3ODMxODYxOTUsMjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2
+NjcwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNi
+w2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODJdfQ==
 -->
