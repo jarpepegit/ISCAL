@@ -35,8 +35,11 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 
 ![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
+
+iii) **[10]** Efetue a análise de sensibilidade ao coeficiente de $x_2$ na função objetivo de M1.
 ### Critérios. 2 a) iii
-> - Função objetivo. $z=-2x_1+c_2x_2\quad\implies\quad m_z=\frac{2}{c_2}$ &nbsp;&nbsp; **(2pts)**
+> - Função objetivo. $z=-2x_1+c_2x_2$ &nbsp;&nbsp; **(1pts)**
+> > - $m_z=\frac{2}{c_2}$. &nbsp;&nbsp; **(1pts)**
 > - Declives das retas relevantes. 
 > > - $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
 > >- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
@@ -58,10 +61,10 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjE0NDM4MywtMTAzNTMyMjQyOCwxOT
-c2MDQyODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MDQxODQ4Mjgs
-MjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3NzM5ND
-U3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1
-NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkwMDUwMD
-YsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgyXX0=
+eyJoaXN0b3J5IjpbLTE0MzMyMDA0MDUsLTEwMzUzMjI0MjgsMT
+k3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4
+LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOT
+Q1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3
+NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MD
+A2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Ml19
 -->
