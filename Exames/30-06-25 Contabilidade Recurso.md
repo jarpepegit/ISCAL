@@ -1,6 +1,3 @@
----
-layout: default
----
 # 2.
 
 <!-- O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com
@@ -61,11 +58,11 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEzNTUwNDMsMTQzOTM2NTIzOSwtMT
-g0MTM1NTA0MywxMDMyNjMxNzQyLDg1MDQ0MjY1MSwtMTAzNTMy
-MjQyOCwxOTc2MDQyODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MD
-QxODQ4MjgsMjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUs
-LTk3NzM5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNz
-AyNTA4LDc1NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1XX0=
+eyJoaXN0b3J5IjpbMTAzMjYzMTc0MiwtMTg0MTM1NTA0MywxND
+M5MzY1MjM5LC0xODQxMzU1MDQzLDEwMzI2MzE3NDIsODUwNDQy
+NjUxLC0xMDM1MzIyNDI4LDE5NzYwNDI4NzgsNTIwNTQyMjgzLD
+M3MDY0ODM5LDcwNDE4NDgyOCwyNjM1MDQwMzgsLTQyNDIxNTgx
+LDE3NzM3NTExNSwtOTc3Mzk0NTc1LDE3ODMxODYxOTUsMjEyND
+g1Mzc1NiwyODE3MDI1MDgsNzU2NjcwNDA4LDMzOTA0MjI0Nl19
 
 -->
