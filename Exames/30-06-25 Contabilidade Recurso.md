@@ -36,10 +36,10 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 ![2 a) iii, b)](https://i.imgur.com/UeBctnq.png)
 
 ### Critérios. 2 a) iii
-> - Função objetivo: $z=-2x_1+c_2x_2\quad\implies\quad m_z=\frac{2}{c_2}$ &nbsp;&nbsp; **(2pts)**
-> - Declives das retas relevantes: 
-	- $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
-	- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
+> - Função objetivo. $z=-2x_1+c_2x_2\quad\implies\quad m_z=\frac{2}{c_2}$ &nbsp;&nbsp; **(2pts)**
+> - Declives das retas relevantes. 
+> > - $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
+> >- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
 > - Análise de declives: 
 	- $-\infty<\frac{2}{c_2}\le-\frac{1}{2} \iff-\infty<\frac{1}{c_2}\le-\frac{1}{4}$ &nbsp;&nbsp; **(3pts)** 
 	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
@@ -58,7 +58,7 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTk4NDE0MSwtMTAzNTMyMjQyOCwxOT
+eyJoaXN0b3J5IjpbLTg5NjE0NDM4MywtMTAzNTMyMjQyOCwxOT
 c2MDQyODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MDQxODQ4Mjgs
 MjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3NzM5ND
 U3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1
