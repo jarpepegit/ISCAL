@@ -23,6 +23,9 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 > - Solução ótima. **4pts**
 > - Determinação algébrica da solução ótima, identificando as equações de fronteira relevantes. **2pts**
 > - Valor ótimo. **2pts**
+---
+---
+2 a ii) **[10]** Altere a função objetivo de modo que o problema tenha solução ´ $b_2$, termo independente da segunda restrição de M1, na análise de sensibilidade a esse termo.
 
 ### Critérios. 2 a) ii
 > - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). **2,5pts**
@@ -61,10 +64,10 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDcxNzg3NjUsLTEwMzUzMjI0MjgsMT
-k3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4
-LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOT
-Q1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3
-NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MD
-A2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Ml19
+eyJoaXN0b3J5IjpbMTk5MjM5ODMzNywtMTAzNTMyMjQyOCwxOT
+c2MDQyODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MDQxODQ4Mjgs
+MjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3NzM5ND
+U3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1
+NjY3MDQwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkwMDUwMD
+YsNjg2MDEwODUzLDIxMzU0NjUxNTAsODYzNzcwNTgyXX0=
 -->
