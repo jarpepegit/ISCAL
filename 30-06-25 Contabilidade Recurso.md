@@ -6,15 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>30-06-25 Contabilidade Recurso</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+        delimiters: [
+          {left: "$$", right: "$$", display: true},
+          {left: "$", right: "$", display: false}
+        ]
+      });
+    });
+  </script>
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html">---
-
-
----
-
-<hr>
+  <div class="stackedit__html"><hr>
 <h2 id="layout-default">layout: default</h2>
 <h1 id="section">2.</h1>
 <!-- O reposit&#243;rio &#233; privado. A seguir, coisas que n&#227;o funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com&#10;![Parte 2](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p1.png)&#10;![Parte 2 a) i-ii](https://github.com/jarpepegit/ISCAL/raw/main/Exames/criterios-p1.png)&#10;![porque n&#227;o funciona?](https://www.dropbox.com/scl/fi/fzgwrou3osuzu0621wn8q/criterios-p1.png?rlkey=u4mhuncre74yt4m0opz8eau0z&amp;st=dwdo60ds&amp;dl=0)&#10;![Usando um reposit&#243;rio de imagens p&#250;blico](https://imgur.com/a/UzJ6sNd)&#10;![Imgur](https://imgur.com/HOoz4dK) -->
@@ -106,6 +114,3 @@
 </body>
 
 </html>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNjM4NzIyXX0=
--->
