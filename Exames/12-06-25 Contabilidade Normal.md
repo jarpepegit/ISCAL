@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,3 +99,6 @@ function greet(name) {
 </body>
 </html>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjMxMzY2MTQ1XX0=
+-->
