@@ -3,6 +3,10 @@ layout: default
 ---
 # 2.
 
+```
+<span class="katex--inline">$a^2+b^2=c^2$</span>
+```
+
 <!-- O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com
 ![Parte 2](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p1.png)
 ![Parte 2 a) i-ii](https://github.com/jarpepegit/ISCAL/raw/main/Exames/criterios-p1.png)
@@ -61,10 +65,11 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEzNTUwNDMsMTAzMjYzMTc0Miw4NT
-A0NDI2NTEsLTEwMzUzMjI0MjgsMTk3NjA0Mjg3OCw1MjA1NDIy
-ODMsMzcwNjQ4MzksNzA0MTg0ODI4LDI2MzUwNDAzOCwtNDI0Mj
-E1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwy
-MTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMj
-Q2LDU0NzcxMDEwNSwtMjM5MDA1MDA2LDY4NjAxMDg1M119
+eyJoaXN0b3J5IjpbMTQzOTM2NTIzOSwtMTg0MTM1NTA0MywxMD
+MyNjMxNzQyLDg1MDQ0MjY1MSwtMTAzNTMyMjQyOCwxOTc2MDQy
+ODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MDQxODQ4MjgsMjYzNT
+A0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3NzM5NDU3NSwx
+NzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4LDc1NjY3MD
+QwOCwzMzkwNDIyNDYsNTQ3NzEwMTA1LC0yMzkwMDUwMDZdfQ==
+
 -->
