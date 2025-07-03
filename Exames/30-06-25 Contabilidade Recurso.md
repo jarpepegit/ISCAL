@@ -43,9 +43,9 @@ iii) **[10]** Efetue a análise de sensibilidade ao coeficiente de $x_2$ na fun�
 > - Declives das retas relevantes. 
 > > - $m_{r_2}=-\frac{1}{2}$ &nbsp;&nbsp; **(1pt)**
 > >- $m_{r_4}=-\infty$ &nbsp;&nbsp; **(1pt)**
-> - Análise de declives: 
-	- $-\infty<\frac{2}{c_2}\le-\frac{1}{2} \iff-\infty<\frac{1}{c_2}\le-\frac{1}{4}$ &nbsp;&nbsp; **(3pts)** 
-	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
+> - Análise de declives. 
+> >	- $-\infty<\frac{2}{c_2}\le-\frac{1}{2} \iff-\infty<\frac{1}{c_2}\le-\frac{1}{4}$ &nbsp;&nbsp; **(3pts)** 
+> >	- $-4\le c_2<0$ &nbsp;&nbsp; **(3pts)**
 
 ---
 b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementaridade, determine a correspondente solução ótima e o respectivo valor, sabendo que $(x_1^\ast,x_2^\ast)=(0,7)$ é a solução ótima do modelo primal. 
@@ -61,7 +61,7 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMyMDA0MDUsLTEwMzUzMjI0MjgsMT
+eyJoaXN0b3J5IjpbLTE1NDcxNzg3NjUsLTEwMzUzMjI0MjgsMT
 k3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4
 LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOT
 Q1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3
