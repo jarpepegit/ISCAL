@@ -48,13 +48,14 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementaridade, determine a correspondente solução ótima e o respectivo valor, sabendo que $(x_1^\ast,x_2^\ast)=(0,7)$ é a solução ótima do modelo primal. 
 ### Critérios. 2 b)
 > - Formulação do problema dual. &nbsp;&nbsp; **(8pts)** 
+> > - Função o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNj
-Q4MzksNzA0MTg0ODI4LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3
-Mzc1MTE1LC05NzczOTQ1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNz
-U2LDI4MTcwMjUwOCw3NTY2NzA0MDgsMzM5MDQyMjQ2LDU0Nzcx
-MDEwNSwtMjM5MDA1MDA2LDY4NjAxMDg1MywyMTM1NDY1MTUwLD
-g2Mzc3MDU4MiwxOTg4NTE1MTk4LDEyNjk5NDQ2MDddfQ==
+eyJoaXN0b3J5IjpbNDU3ODgwMDUwLDE5NzYwNDI4NzgsNTIwNT
+QyMjgzLDM3MDY0ODM5LDcwNDE4NDgyOCwyNjM1MDQwMzgsLTQy
+NDIxNTgxLDE3NzM3NTExNSwtOTc3Mzk0NTc1LDE3ODMxODYxOT
+UsMjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2NjcwNDA4LDMzOTA0
+MjI0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNiw2ODYwMTA4NTMsMj
+EzNTQ2NTE1MCw4NjM3NzA1ODIsMTk4ODUxNTE5OF19
 -->
