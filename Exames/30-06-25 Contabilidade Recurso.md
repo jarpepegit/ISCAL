@@ -18,19 +18,19 @@ O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o
 
  2 a) i **[20]** Determine, usando o vetor gradiente, a solução ótima de M1 e o respetivo valor ótimo.
 ### Critérios. 2 a) i
-> - Desenho da região admissível. **8pts**
-> - Gradiente. **2pts**
-> - Retas de nível. **2pts**
-> - Solução ótima. **4pts**
-> - Determinação algébrica da solução ótima, identificando as equações de fronteira relevantes. **2pts**
-> - Valor ótimo. **2pts**
+> - Desenho da região admissível. &nbsp;&nbsp; **(8pts)**
+> - Gradiente. &nbsp;&nbsp; **(2pts)**
+> - Retas de nível. &nbsp;&nbsp;**(2pts)**
+> - Solução ótima. &nbsp;&nbsp; **(4pts)**
+> - Determinação algébrica da solução ótima, identificando as equações de fronteira relevantes. &nbsp;&nbsp; **(2pts)**
+> - Valor ótimo. &nbsp;&nbsp; **(2pts)**
 ---
 2 a) ii **[10]** Altere a função objetivo de modo que o problema tenha solução ótima múltipla que inclua a solução obtida em i). Indique essa solução e o respetivo valor. 
 
 ### Critérios. 2 a) ii
-> - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). **3pts**
-> -  Vetor gradiente da nova função objetivo: sentido oposto ao gradiente da linha de fronteira que contem a solução ótima da parte i). **2pts**
-> - Solução ótima múltipla: combinação convexa dos vértices $(4,3)$ e $(0,5)$. **5pts**
+> - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). &nbsp;&nbsp; **(3pts)**
+> -  Vetor gradiente da nova função objetivo: sentido oposto ao gradiente da linha de fronteira que contem a solução ótima da parte i). &nbsp;&nbsp; **(2pts)**
+> - Solução ótima múltipla: combinação convexa dos vértices $(4,3)$ e $(0,5)$. &nbsp;&nbsp;**(5pts)**
 
 
 
@@ -63,10 +63,10 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM1MzUyMzAsLTEwMzUzMjI0MjgsMT
-k3NjA0Mjg3OCw1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4
-LDI2MzUwNDAzOCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOT
-Q1NzUsMTc4MzE4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3
-NTY2NzA0MDgsMzM5MDQyMjQ2LDU0NzcxMDEwNSwtMjM5MDA1MD
-A2LDY4NjAxMDg1MywyMTM1NDY1MTUwLDg2Mzc3MDU4Ml19
+eyJoaXN0b3J5IjpbODUwNDQyNjUxLC0xMDM1MzIyNDI4LDE5Nz
+YwNDI4NzgsNTIwNTQyMjgzLDM3MDY0ODM5LDcwNDE4NDgyOCwy
+NjM1MDQwMzgsLTQyNDIxNTgxLDE3NzM3NTExNSwtOTc3Mzk0NT
+c1LDE3ODMxODYxOTUsMjEyNDg1Mzc1NiwyODE3MDI1MDgsNzU2
+NjcwNDA4LDMzOTA0MjI0Niw1NDc3MTAxMDUsLTIzOTAwNTAwNi
+w2ODYwMTA4NTMsMjEzNTQ2NTE1MCw4NjM3NzA1ODJdfQ==
 -->
