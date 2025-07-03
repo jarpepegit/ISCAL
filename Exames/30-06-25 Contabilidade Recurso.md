@@ -27,7 +27,7 @@ Una sorpresita!
 ### Critérios. 2 a) ii
 > - Alteração da função objetivo para que o problema tenha solução ótima múltipla que inclua a solução obtida em i). &nbsp;&nbsp; **(3pts)**
 > -  Vetor gradiente da nova função objetivo: sentido oposto ao gradiente da linha de fronteira que contem a solução ótima da parte i). &nbsp;&nbsp; **(2pts)**
-> - Solução ótima múltipla: combinação convexa dos vértices $(4,3)$ e $(0,5)$. &nbsp;&nbsp;**(5pts)**
+> - Solução ótima múltipla: combinação convexa dos vértices $(4,3)$ e $(0,5)$, por exemplo. &nbsp;&nbsp;**(5pts)**
 
 
 
@@ -60,11 +60,11 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTU3MDI5OSwxMDMyNjMxNzQyLC0xOD
-QxMzU1MDQzLDE0MzkzNjUyMzksLTE4NDEzNTUwNDMsMTAzMjYz
-MTc0Miw4NTA0NDI2NTEsLTEwMzUzMjI0MjgsMTk3NjA0Mjg3OC
-w1MjA1NDIyODMsMzcwNjQ4MzksNzA0MTg0ODI4LDI2MzUwNDAz
-OCwtNDI0MjE1ODEsMTc3Mzc1MTE1LC05NzczOTQ1NzUsMTc4Mz
-E4NjE5NSwyMTI0ODUzNzU2LDI4MTcwMjUwOCw3NTY2NzA0MDhd
-fQ==
+eyJoaXN0b3J5IjpbMTc2OTg5OTY1MiwtMzI5NTcwMjk5LDEwMz
+I2MzE3NDIsLTE4NDEzNTUwNDMsMTQzOTM2NTIzOSwtMTg0MTM1
+NTA0MywxMDMyNjMxNzQyLDg1MDQ0MjY1MSwtMTAzNTMyMjQyOC
+wxOTc2MDQyODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MDQxODQ4
+MjgsMjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3Nz
+M5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4
+XX0=
 -->
