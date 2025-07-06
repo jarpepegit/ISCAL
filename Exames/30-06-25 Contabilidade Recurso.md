@@ -1,12 +1,10 @@
 # 2.
 
-Una sorpresita!
-
-<!-- O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com
+<!-- Una sorpresita! O repositório é privado. A seguir, coisas que não funcionaram, e, ao final, o que sim funcionou. Abri conta em imgur.com
 ![Parte 2](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/criterios-p1.png)
 ![Parte 2 a) i-ii](https://github.com/jarpepegit/ISCAL/raw/main/Exames/criterios-p1.png)
 ![porque não funciona?](https://www.dropbox.com/scl/fi/fzgwrou3osuzu0621wn8q/criterios-p1.png?rlkey=u4mhuncre74yt4m0opz8eau0z&st=dwdo60ds&dl=0)
-![Usando um repositório de imagens público](https://imgur.com/a/UzJ6sNd)
+![Usando um repositório de imagens público, isto sim funcionou](https://imgur.com/a/UzJ6sNd)
 ![Imgur](https://imgur.com/HOoz4dK) -->
 
 ## 2 a) i, ii
@@ -60,11 +58,11 @@ b) **[20]** Escreva o dual de **M2** e, utilizando as condições de complementa
 > - Valor ótimo. &nbsp; &nbsp;**(1pts)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTg5OTY1MiwtMzI5NTcwMjk5LDEwMz
-I2MzE3NDIsLTE4NDEzNTUwNDMsMTQzOTM2NTIzOSwtMTg0MTM1
-NTA0MywxMDMyNjMxNzQyLDg1MDQ0MjY1MSwtMTAzNTMyMjQyOC
-wxOTc2MDQyODc4LDUyMDU0MjI4MywzNzA2NDgzOSw3MDQxODQ4
-MjgsMjYzNTA0MDM4LC00MjQyMTU4MSwxNzczNzUxMTUsLTk3Nz
-M5NDU3NSwxNzgzMTg2MTk1LDIxMjQ4NTM3NTYsMjgxNzAyNTA4
-XX0=
+eyJoaXN0b3J5IjpbMTQwNzg4MDU4OCwxNzY5ODk5NjUyLC0zMj
+k1NzAyOTksMTAzMjYzMTc0MiwtMTg0MTM1NTA0MywxNDM5MzY1
+MjM5LC0xODQxMzU1MDQzLDEwMzI2MzE3NDIsODUwNDQyNjUxLC
+0xMDM1MzIyNDI4LDE5NzYwNDI4NzgsNTIwNTQyMjgzLDM3MDY0
+ODM5LDcwNDE4NDgyOCwyNjM1MDQwMzgsLTQyNDIxNTgxLDE3Nz
+M3NTExNSwtOTc3Mzk0NTc1LDE3ODMxODYxOTUsMjEyNDg1Mzc1
+Nl19
 -->
