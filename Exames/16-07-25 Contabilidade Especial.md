@@ -90,12 +90,12 @@ Estude a natureza do integral impróprio $\displaystyle\int_{-\infty}^\frac{1}{2
 > $4\displaystyle\int_{-\infty}^\frac{1}{2}\frac{1}{1+(2x)^2}\,dx$ &nbsp;&nbsp;**(3 val.)**
 > 
 > $=4 \frac{1}{2}\arctan(2x)\Bigg|_{-\infty}^\frac{1}{2}=2\arctan(1)-2\arctan(-\infty)$ &nbsp;&nbsp;**(2 val.)**
-> 
+> $2\frac{\pi}{4}-2(-\frac{\pi}{2})=\frac{\pi}{2}+\pi=$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NTgxNDk1LDE0OTU3NzQxOTcsLTI3Nj
-k4NDk3MSwxNjM5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3
-NjEsNzc1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
+eyJoaXN0b3J5IjpbLTExNzEwMDU3NSwxNDk1Nzc0MTk3LC0yNz
+Y5ODQ5NzEsMTYzOTA5NjI2NywtNzU3NTI0MzE4LC0yMDE0MDQ1
+NzYxLDc3NTI2NzE3OCwtMTc5NjM2NjcwNl19
 -->
