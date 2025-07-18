@@ -25,13 +25,13 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 
 ### c) [15]
 Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\log(x+1)}}$
-> $L=\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\log(x+1)}}=\displaystyle\lim_{x\to+\infty}\left(x\right)^{\frac{1}{\log(x+1)}}$
-> $\log L = \displaystyle\lim_{x\to+\infty}\frac{1}{\log(x+1)}\log(x)=\lim_{x\to+\infty}\frac{\frac{1}{x}}{\frac{1}{x+1}}=\lim_{x\to+\infty}\frac{x+1}{x}=1$
-> $\log L=1\implies L=e$
+> $L=\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\log(x+1)}}=\displaystyle\lim_{x\to+\infty}\left(x\right)^{\frac{1}{\log(x+1)}}$. **(5 val.)**
+> $\log L = \displaystyle\lim_{x\to+\infty}\frac{1}{\log(x+1)}\log(x)=\lim_{x\to+\infty}\frac{\frac{1}{x}}{\frac{1}{x+1}}=\lim_{x\to+\infty}\frac{x+1}{x}=1$. **(5 val.)** 
+> $\log L=1\implies L=e$. **(3 val.)**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM1MzE3MDksLTIwMTQwNDU3NjEsNz
-c1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
+eyJoaXN0b3J5IjpbMTIwMTA1MDQ2OCwtMjAxNDA0NTc2MSw3Nz
+UyNjcxNzgsLTE3OTYzNjY3MDZdfQ==
 -->
