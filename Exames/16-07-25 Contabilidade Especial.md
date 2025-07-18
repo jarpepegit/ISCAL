@@ -20,14 +20,14 @@ Sabendo que é contínua em $\mathbb{R}\setminus\{1\}$, mostre que $f$ não é p
 Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa $2$.
 > - Necessitamos saber, **ponto de passo** e **declive**. **(2 val.)**
 > - Ponto de passo = ponto de tangência=$(2,f(2))=(2,2+\tfrac{1}{2})=(2,\tfrac{5}{2})$. **(2 val.)**
-> - Declive = $f'(2)=2-\tfrac{1}{2^2}=\tfrac{7}{4}$. **(2 val.)**
+> - Declive = $f'(2)=1-\tfrac{1}{2^2}=\tfrac{3}{4}$. **(2 val.)**
 > - Equação da reta: $\frac{y-y_0}{x-x_0}=m$.
 > 
-> $\frac{y-\frac{5}{2}}{x-2}=\frac{7}{4}$.
+> $\frac{y-\frac{5}{2}}{x-2}=\frac{3}{4}$.
 > 
-> $y=\frac{7}{4}(x-2)+\frac{5}{2}$
+> $y=\frac{3}{4}(x-2)+\frac{5}{2}$
 > 
-> $4y=7x-4\iff 7x-4y=4$. **(4 val.)**
+> $4y=3x-6\iff 7x-4y=4$. **(4 val.)**
 
 ### c) [15]
 Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\ln(x+1)}}$
@@ -108,8 +108,8 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 > 
 > $\operatorname{Area}(\mathcal{R})=\displaystyle\int_{0}^1 (4-x^2 -3x)dx=\left(4x-\tfrac{x^3}{3}-3\tfrac{x^2}{2}\right)\Bigg|_0^1=4-\tfrac{1}{3}-\tfrac{3}{2}=\boxed{\tfrac{13}{6}}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTc1MTYzOCwtNjA1ODI2NDU3LC0xOT
-k3Mjg1NSwxNDk1Nzc0MTk3LC0yNzY5ODQ5NzEsMTYzOTA5NjI2
-NywtNzU3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3OCwtMT
-c5NjM2NjcwNl19
+eyJoaXN0b3J5IjpbLTIwMDY1MTk4ODMsMTMwMTc1MTYzOCwtNj
+A1ODI2NDU3LC0xOTk3Mjg1NSwxNDk1Nzc0MTk3LC0yNzY5ODQ5
+NzEsMTYzOTA5NjI2NywtNzU3NTI0MzE4LC0yMDE0MDQ1NzYxLD
+c3NTI2NzE3OCwtMTc5NjM2NjcwNl19
 -->
