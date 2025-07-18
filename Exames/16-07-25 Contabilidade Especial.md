@@ -24,8 +24,8 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 > $4y=7x-4\iff 7x-4y=4$. **(4 val.)**
 
 ### c) [15]
-Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\log(x+1)}}$
-> $L=\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\log(x+1)}}=\displaystyle\lim_{x\to+\infty}\left(x\right)^{\frac{1}{\log(x+1)}}$. **(5 val.)**
+Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\ln(x+1)}}$
+> $L=\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\ln(x+1)}}=\displaystyle\lim_{x\to+\infty}\left(x\right)^{\frac{1}{\ln(x+1)}}$. **(5 val.)**
 > $\log L = \displaystyle\lim_{x\to+\infty}\frac{1}{\ln(x+1)}\ln(x)=\lim_{x\to+\infty}\frac{\frac{1}{x}}{\frac{1}{x+1}}=\lim_{x\to+\infty}\frac{x+1}{x}=1$. **(5 val.)** 
 > $\log L=1\implies L=e$. **(5 val.)**
 
@@ -52,7 +52,7 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Njg2MzY3NiwxNjM5MDk2MjY3LC03NT
-c1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4LC0xNzk2MzY2
-NzA2XX0=
+eyJoaXN0b3J5IjpbLTExODUyOTI2ODgsMTYzOTA5NjI2NywtNz
+U3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3OCwtMTc5NjM2
+NjcwNl19
 -->
