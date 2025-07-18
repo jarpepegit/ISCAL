@@ -87,12 +87,15 @@ Estude a natureza do integral impróprio $\displaystyle\int_{-\infty}^\frac{1}{2
 > Convergente ou divergente? 
 > $\displaystyle\int_{-\infty}^\frac{1}{2}\frac{16}{4+16x^2}\,dx=\displaystyle\int_{-\infty}^\frac{1}{2}\frac{4}{1+4x^2}\,dx=4\displaystyle\int_{-\infty}^\frac{1}{2}\frac{1}{1+(2x)^2}\,dx$ &nbsp;&nbsp;**(3 val.)**
 > 
-> $4\displaystyle\int_{-\infty}^\frac{1}{2}\frac{1}{1+(2x)^2}\,dx=4 \frac{1}{2}\arctan(2x)\Bigg|_{-\infty}^\frac{1}{2}=2\arctan(1)-2\arctan(-\infty)$ &nbsp;&nbsp;**(3 val.)**
+> $4\displaystyle\int_{-\infty}^\frac{1}{2}\frac{1}{1+(2x)^2}\,dx$ &nbsp;&nbsp;**(3 val.)**
+> 
+> $=4 \frac{1}{2}\arctan(2x)\Bigg|_{-\infty}^\frac{1}{2}=2\arctan(1)-2\arctan(-\infty)$ &nbsp;&nbsp;**(2 val.)**
+> 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTc3NDE5NywtMjc2OTg0OTcxLDE2Mz
-kwOTYyNjcsLTc1NzUyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcx
-NzgsLTE3OTYzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbMjc5NTgxNDk1LDE0OTU3NzQxOTcsLTI3Nj
+k4NDk3MSwxNjM5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3
+NjEsNzc1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
 -->
