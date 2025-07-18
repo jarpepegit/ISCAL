@@ -31,7 +31,7 @@ Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{
 
 ### d) [15]
 Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
-> Para $x<1$, temos $f(x)=x^2+e^{x^2}$. **(1 val.)**
+> Para $x<1$, temos $\boxed{f(x)=x^2+e^{x^2}.}$ **(1 val.)**
 > $f'(x)=2x+2xe^{x^2}=2x(\underbrace{1+e^{x^2}}_{>0})$ **(3 val.)**
 > Portanto, 
 > - $f'(x)<0$ se $x<0$ e 
@@ -49,7 +49,7 @@ Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTAzOTI2MCwxNjM5MDk2MjY3LC03NT
+eyJoaXN0b3J5IjpbMTYwNzE2OTg2MiwxNjM5MDk2MjY3LC03NT
 c1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4LC0xNzk2MzY2
 NzA2XX0=
 -->
