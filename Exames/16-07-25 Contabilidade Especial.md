@@ -103,13 +103,14 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 > 
 > Primeiro quadrante &nbsp;&nbsp;**(2 val.)**
 > Desenho da região &nbsp;&nbsp;**(3 val.)**
-![Região](https://imgur.com/ml8ATBs)
+![Região](https://i.imgur.com/ml8ATBs.png)
 > Cálculo da área. &nbsp;&nbsp;**(4 val.)**
+> $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MTYyMTM2LC02MDU4MjY0NTcsLTE5OT
+eyJoaXN0b3J5IjpbMTgyNzM3ODM4LC02MDU4MjY0NTcsLTE5OT
 cyODU1LDE0OTU3NzQxOTcsLTI3Njk4NDk3MSwxNjM5MDk2MjY3
 LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4LC0xNz
 k2MzY2NzA2XX0=
