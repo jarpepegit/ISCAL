@@ -91,12 +91,17 @@ Estude a natureza do integral impróprio $\displaystyle\int_{-\infty}^\frac{1}{2
 > 
 > $=4 \frac{1}{2}\arctan(2x)\Bigg|_{-\infty}^\frac{1}{2}=2\arctan(1)-2\arctan(-\infty)$ &nbsp;&nbsp;**(2 val.)**
 > 
-> $2\frac{\pi}{4}-2(-\frac{\pi}{2})=\frac{\pi}{2}+\pi=\frac{3\pi}{2}$ &nbsp;&nbsp;**(2 val.)**
+> $2\frac{\pi}{4}-2(-\frac{\pi}{2})=\frac{\pi}{2}+\pi=\frac{3\pi}{2}$ &nbsp;&nbsp;**(1 val.)**
+> 
+> **convergente**. &nbsp;&nbsp;**(1 val.)**
+
+### d) [15]
+Represente ge
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjIzMTg0MSwxNDk1Nzc0MTk3LC0yNz
-Y5ODQ5NzEsMTYzOTA5NjI2NywtNzU3NTI0MzE4LC0yMDE0MDQ1
-NzYxLDc3NTI2NzE3OCwtMTc5NjM2NjcwNl19
+eyJoaXN0b3J5IjpbLTEyMTU4MzA0MTIsMTQ5NTc3NDE5NywtMj
+c2OTg0OTcxLDE2MzkwOTYyNjcsLTc1NzUyNDMxOCwtMjAxNDA0
+NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3MDZdfQ==
 -->
