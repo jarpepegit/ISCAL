@@ -47,12 +47,12 @@ Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 
 ## 2.
 ### a) [10]
-Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e
+Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{}
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUyOTI2ODgsMTYzOTA5NjI2NywtNz
-U3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3OCwtMTc5NjM2
-NjcwNl19
+eyJoaXN0b3J5IjpbNDgzNzIwMTE0LDE2MzkwOTYyNjcsLTc1Nz
+UyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3
+MDZdfQ==
 -->
