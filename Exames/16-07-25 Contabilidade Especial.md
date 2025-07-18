@@ -97,11 +97,15 @@ Estude a natureza do integral impróprio $\displaystyle\int_{-\infty}^\frac{1}{2
 
 ### d) [15]
 Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-x^2}$ e $\boxed{x\ge 0}$ e calcule a medida da respetiva área.
+> Reta: $3x=y$&nbsp;&nbsp;**(3 val.)**
+> 
+> Parábola: $y=4-x^2$&nbsp;&nbsp;**(3 val.)**
+> 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0ODI5NzU3LDE0OTU3NzQxOTcsLTI3Nj
+eyJoaXN0b3J5IjpbNjk1NDc0NDY3LDE0OTU3NzQxOTcsLTI3Nj
 k4NDk3MSwxNjM5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3
 NjEsNzc1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
 -->
