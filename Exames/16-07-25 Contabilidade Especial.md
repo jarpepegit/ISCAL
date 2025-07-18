@@ -84,12 +84,12 @@ Calcule $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx$, efetuando a mudanç
 Estude a natureza do integral impróprio $\displaystyle\int_{-\infty}^\frac{1}{2}\frac{16}{4+16x^2}\,dx$.
 > Integral impróprio de tipo I (intervalo ilimitado) &nbsp;&nbsp;**(2 val.)**
 > Convergente ou divergente? 
-> $$\displaystyle\int_{-\infty}^\frac{1}{2}\frac{16}{4+16x^2}\,dx=
+> $$\displaystyle\int_{-\infty}^\frac{1}{2}\frac{16}{4+16x^2}\,dx=\displaystyle\int_{-\infty}^\frac{1}{2}\frac{4}{1+4x^2}\,dx=$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIxMDI0MTcsLTI3Njk4NDk3MSwxNj
+eyJoaXN0b3J5IjpbLTIxMjgzNDkzMjksLTI3Njk4NDk3MSwxNj
 M5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3
 MTc4LC0xNzk2MzY2NzA2XX0=
 -->
