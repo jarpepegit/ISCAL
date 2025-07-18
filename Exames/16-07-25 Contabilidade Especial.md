@@ -101,11 +101,14 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 > 
 > Parábola: $y=4-x^2$&nbsp;&nbsp;**(3 val.)**
 > 
+> Primeiro quadrante &nbsp;&nbsp;**(2 val.)**
+> Desenho da região &nbsp;&nbsp;**(3 val.)**
+> Cálu
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NDc0NDY3LDE0OTU3NzQxOTcsLTI3Nj
-k4NDk3MSwxNjM5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3
-NjEsNzc1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
+eyJoaXN0b3J5IjpbLTMzODUyODk5MywxNDk1Nzc0MTk3LC0yNz
+Y5ODQ5NzEsMTYzOTA5NjI2NywtNzU3NTI0MzE4LC0yMDE0MDQ1
+NzYxLDc3NTI2NzE3OCwtMTc5NjM2NjcwNl19
 -->
