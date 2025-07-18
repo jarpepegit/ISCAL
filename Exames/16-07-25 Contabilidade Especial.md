@@ -29,9 +29,13 @@ Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{
 > $\log L = \displaystyle\lim_{x\to+\infty}\frac{1}{\log(x+1)}\log(x)=\lim_{x\to+\infty}\frac{\frac{1}{x}}{\frac{1}{x+1}}=\lim_{x\to+\infty}\frac{x+1}{x}=1$. **(5 val.)** 
 > $\log L=1\implies L=e$. **(5 val.)**
 
+### d) [15]
+Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
+> Para $x
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzUyNDMxOCwtMjAxNDA0NTc2MSw3Nz
-UyNjcxNzgsLTE3OTYzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbLTExOTk1NDEwODMsLTc1NzUyNDMxOCwtMj
+AxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3MDZdfQ==
 -->
