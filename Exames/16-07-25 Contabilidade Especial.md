@@ -57,12 +57,13 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 > $$-\tfrac{1}{2}=f(1)=\tfrac{1}{2}+\tfrac{1}{5}(5\ln(5)-5)+C\implies C=-\ln(5).$$
 > Conclusão: $f(x)= \frac{x^2}{2}+\frac{1}{5}(5x\ln(5x)-5x)-\ln(5)$. &nbsp;&nbsp; **(1 val.)**
 
-###
+### b) [13]
+Calcule $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx$, efetuando a mudança de variá
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI5NjczNzYsLTI3Njk4NDk3MSwxNj
+eyJoaXN0b3J5IjpbLTE4OTI1NTY5NTAsLTI3Njk4NDk3MSwxNj
 M5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3
 MTc4LC0xNzk2MzY2NzA2XX0=
 -->
