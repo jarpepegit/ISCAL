@@ -74,14 +74,15 @@ Calcule $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx$, efetuando a mudanç
 > 
 > $\displaystyle\int_1^e\frac{4+\ln x}{x(1+\ln x)}\,dx=\displaystyle\int_0^1\frac{4+t}{\cancel{e^t}(1+t)}\,\cancel{e^t}\,dt$ &nbsp;&nbsp;**(2 val.)**
 > 
-> $=\displaystyle\int_0^1\frac{3}{(1+t)}\,dt+\displaystyle\int_0^1 1\,dt$ &nbsp;&nbsp
+> $=\displaystyle\int_0^1\frac{3}{(1+t)}\,dt+\displaystyle\int_0^1 1\,dt$ &nbsp;&nbsp;**(3 val.)**
 > 
-> $=3\ln(1+t)\Big|_0^1+t\Big|_0^1$
+> $=3\ln(1+t)\Big|_0^1+t\Big|_0^1$&nbsp;&nbsp;**(3 val.)**
+> $3\ln2+1$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjI1ODczNCwtMjc2OTg0OTcxLDE2Mz
+eyJoaXN0b3J5IjpbMTAzNjAwMDk2OCwtMjc2OTg0OTcxLDE2Mz
 kwOTYyNjcsLTc1NzUyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcx
 NzgsLTE3OTYzNjY3MDZdfQ==
 -->
