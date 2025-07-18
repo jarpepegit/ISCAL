@@ -103,14 +103,14 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 > 
 > Primeiro quadrante &nbsp;&nbsp;**(2 val.)**
 > Desenho da região &nbsp;&nbsp;**(3 val.)**
-![Região](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Exames/Perg2dEpEsp.png)
+![Região](https://imgur.com/a/8DJzuAZ)
 > Cálculo da área. &nbsp;&nbsp;**(4 val.)**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTgyNjQ1NywtMTk5NzI4NTUsMTQ5NT
-c3NDE5NywtMjc2OTg0OTcxLDE2MzkwOTYyNjcsLTc1NzUyNDMx
-OCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3MDZdfQ
-==
+eyJoaXN0b3J5IjpbMTk3NzI5MjYyNSwtNjA1ODI2NDU3LC0xOT
+k3Mjg1NSwxNDk1Nzc0MTk3LC0yNzY5ODQ5NzEsMTYzOTA5NjI2
+NywtNzU3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3OCwtMT
+c5NjM2NjcwNl19
 -->
