@@ -23,8 +23,12 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 > $y=\frac{7}{4}(x-2)+\frac{5}{2}$
 > $4y=7x-4\iff 7x-4y=4$. **(4 val.)**
 
+### c) [15]
+Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\fraright)
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
+eyJoaXN0b3J5IjpbNDYzMzM2NjMzLDc3NTI2NzE3OCwtMTc5Nj
+M2NjcwNl19
 -->
