@@ -35,16 +35,18 @@ Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 > $f'(x)=2x+2xe^{x^2}=2x(\underbrace{1+e^{x^2}}_{>0})$ **(3 val.)**
 > Portanto, 
 > - $f'(x)<0$ se $x<0$ e 
-> - $f'(x)>0$ se $x>0$. **(2 val.)**
-> Contudo, como estamos restritos a $x<1$, segue-se que 
-> - $f'(x)<0$ para qualquer $x<0$ **(2 val.)**
-> - $f'(x)>0$ para qualquer $0<x<1$ **(2 val.)**
-> Isto significa que $f$ é **decrescente** em $x<0
+> - $f'(x)>0$ se $x>0$. **(1 val.)**
+> Contudo, como estamos **restritos** a $x<1$, segue-se que 
+> - $f'(x)<0$ para qualquer $x<0$ 
+> - $f'(x)>0$ para qualquer $0<x<1$ **(3 val.)**
+> 
+> Isto significa que $f$ é **decrescente** em $x<0$
+> 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0ODYwNDYyLDE2MzkwOTYyNjcsLTc1Nz
-UyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTUyMjI5NTc2NCwxNjM5MDk2MjY3LC03NT
+c1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4LC0xNzk2MzY2
+NzA2XX0=
 -->
