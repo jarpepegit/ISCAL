@@ -31,11 +31,12 @@ Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{
 
 ### d) [15]
 Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
-> Para $x<1$, temos $f(x)=x^2+e^{x^2}$. **(1 val.)
+> Para $x<1$, temos $f(x)=x^2+e^{x^2}$. **(1 val.)**
+> $f'(x)=2x+2xe^{x^2}=2x(1+e^{x^2})$ **(3 val.)**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzQ2NTUxOSwtNzU3NTI0MzE4LC0yMD
+eyJoaXN0b3J5IjpbLTMxNzUyNDYwOCwtNzU3NTI0MzE4LC0yMD
 E0MDQ1NzYxLDc3NTI2NzE3OCwtMTc5NjM2NjcwNl19
 -->
