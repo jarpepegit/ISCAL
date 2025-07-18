@@ -15,10 +15,10 @@ Sabendo que é contínua em $\mathbb{R}\setminus{1}$, mostre que $f$ não é pro
 
 ### b) [10]
 Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa $2$.
-> 
+> - Para escrever a queNecessitamos saber, **ponto de passo** e **declive**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk1NDU1XX0=
+eyJoaXN0b3J5IjpbMTQ0MDUwMzQzMl19
 -->
