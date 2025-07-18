@@ -13,8 +13,12 @@ Sabendo que é contínua em $\mathbb{R}\setminus{1}$, mostre que $f$ não é pro
 > $L_+=\displaystyle\lim_{x\to 1^+}f(x)=\displaystyle\lim_{x\to 1^+}x+\dfrac{1}{x}=1+1=2$. **(3 val.)**
 > - Conclusão: $L_-\neq L_+\implies L$ não existe. Portanto, **não** podemos definir $f(1)=L$. **(2 val.)**
 
+### b) [10]
+Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa $2$.
+> 
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDQ2MzExMF19
+eyJoaXN0b3J5IjpbLTE5NTk1NDU1XX0=
 -->
