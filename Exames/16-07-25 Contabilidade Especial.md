@@ -52,12 +52,12 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 > Cálculo auxiliar: $\boxed{\displaystyle\int\ln(u)\,du=u\ln u -u}$ &nbsp;&nbsp;**(2 val.)**
 > Substituição: $\boxed{u=5x}$ então $\boxed{du=5dx}$ &nbsp;&nbsp;**(2 val.)**
 > Cálculo do integral indefinido
-> $$\displaystyle\int x + \ln(5x)\,dx = $$
+> $$\displaystyle\int x + \ln(5x)\,dx = \frac{x^2}{2}+\frac{1}{5}(5x\ln(5x)-5x)$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MzU0MzczLDE2MzkwOTYyNjcsLTc1Nz
-UyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMTY4MTk2MzQsMTYzOTA5NjI2NywtNz
+U3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3OCwtMTc5NjM2
+NjcwNl19
 -->
