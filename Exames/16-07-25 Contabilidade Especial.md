@@ -20,7 +20,7 @@ Sabendo que é contínua em $\mathbb{R}\setminus\{1\}$, mostre que $f$ não é p
 Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa $2$.
 > - Necessitamos saber, **ponto de passo** e **declive**. **(2 val.)**
 > - Ponto de passo = ponto de tangência=$(2,f(2))=(2,2+\tfrac{1}{2})=(2,\tfrac{5}{2})$. **(2 val.)**
-> - Declive = $f'(2)=1-\tfrac{1}{2^2}=\tfrac{3}{4}$. **(2 val.)**
+> - Declive = $f'(2)=\left(1-\tfrac{1}{x^2}\right)\Big|_{x=2}=\tfrac{3}{4}$. **(2 val.)**
 > - Equação da reta: $\frac{y-y_0}{x-x_0}=m$.
 > 
 > $\frac{y-\frac{5}{2}}{x-2}=\frac{3}{4}$.
@@ -108,8 +108,8 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 > 
 > $\operatorname{Area}(\mathcal{R})=\displaystyle\int_{0}^1 (4-x^2 -3x)dx=\left(4x-\tfrac{x^3}{3}-3\tfrac{x^2}{2}\right)\Bigg|_0^1=4-\tfrac{1}{3}-\tfrac{3}{2}=\boxed{\tfrac{13}{6}}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjczMzU5NCwxMzAxNzUxNjM4LC02MD
-U4MjY0NTcsLTE5OTcyODU1LDE0OTU3NzQxOTcsLTI3Njk4NDk3
-MSwxNjM5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNz
-c1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
+eyJoaXN0b3J5IjpbMTk1OTI3NzI1MCwxNDMyNzMzNTk0LDEzMD
+E3NTE2MzgsLTYwNTgyNjQ1NywtMTk5NzI4NTUsMTQ5NTc3NDE5
+NywtMjc2OTg0OTcxLDE2MzkwOTYyNjcsLTc1NzUyNDMxOCwtMj
+AxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3MDZdfQ==
 -->
