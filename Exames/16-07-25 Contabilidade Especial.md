@@ -21,9 +21,11 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 > - Equação da reta: $\frac{y-y_0}{x-x_0}=m$.
 > $\frac{y-\frac{5}{2}}{x-2}=\frac{7}{4}$.
 > $y=\frac{7}{4}(x-2)+\frac{5}{2}$
+> $4y=7x-4\iff$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTA0NTU4OCwtMTc5NjM2NjcwNl19
+eyJoaXN0b3J5IjpbLTE1NDA0NDc4MzEsLTE3OTYzNjY3MDZdfQ
+==
 -->
