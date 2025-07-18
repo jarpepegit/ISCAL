@@ -24,11 +24,12 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 > $4y=7x-4\iff 7x-4y=4$. **(4 val.)**
 
 ### c) [15]
-Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\fraright)
+Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\log(x+1)}}$
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMzM2NjMzLDc3NTI2NzE3OCwtMTc5Nj
-M2NjcwNl19
+eyJoaXN0b3J5IjpbMTYxMDcwMDA3MSw3NzUyNjcxNzgsLTE3OT
+YzNjY3MDZdfQ==
 -->
