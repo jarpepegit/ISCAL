@@ -81,12 +81,13 @@ Calcule $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx$, efetuando a mudanç
 > $=3\ln2+1$. &nbsp;&nbsp;**(2 val.)**
 
 ### c) [12]
-Estude a natureza do integral impróprio $\displaystyle\int_{-}$
+Estude a natureza do integral impróprio $\displaystyle\int_{-\infty}^\frac{1}{2}\frac{16}{4+16x^2}\,dx$.
+> Integral imprópio
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDUzNDk1OTIsLTI3Njk4NDk3MSwxNj
-M5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3
-MTc4LC0xNzk2MzY2NzA2XX0=
+eyJoaXN0b3J5IjpbNTcxNjk4Njk1LC0yNzY5ODQ5NzEsMTYzOT
+A5NjI2NywtNzU3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3
+OCwtMTc5NjM2NjcwNl19
 -->
