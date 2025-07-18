@@ -32,6 +32,7 @@ Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{
 ### d) [15]
 Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 > Para $x<1$, temos $\boxed{f(x)=x^2+e^{x^2}.}$ **(1 val.)**
+> 
 > $f'(x)=2x+2xe^{x^2}=2x(\underbrace{1+e^{x^2}}_{>0})$ **(3 val.)**
 > Portanto, 
 > - $f'(x)<0$ se $x<0$ **(0,5 val.)** 
@@ -50,7 +51,9 @@ Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 > Queremos é encontrar $f(x)=\displaystyle\int x + \ln(5x)\,dx$ &nbsp;&nbsp;**(1 val.)**
 > Cálculo auxiliar: $\boxed{\displaystyle\int\ln(u)\,du=u\ln u -u}$ &nbsp;&nbsp;**(2 val.)**
+> 
 > Substituição: $\boxed{u=5x}$ então $\boxed{du=5dx}$ &nbsp;&nbsp;**(2 val.)**
+> 
 > Cálculo do integral indefinido &nbsp;&nbsp;**(2 val.)**
 > $$f(x)=\displaystyle\int x + \ln(5x)\,dx = \tfrac{x^2}{2}+\tfrac{1}{5}(5x\ln(5x)-5x)+ C.$$
 > Uso da condição inicial: $\boxed{f(1)=-\tfrac{1}{2}}$ &nbsp;&nbsp;**(2 val.)**
@@ -59,12 +62,14 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 
 ### b) [13]
 Calcule $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx$, efetuando a mudança de variável $\ln x=t$.
-> $\boxed{\ln x=t}\Rightarrow\boxed{\frac{1}{x}dx=dt}\Rightarrow\boxed{dx=e^tdt}$
+> $\boxed{\ln x=t}\Rightarrow\boxed{\frac{1}{x}dx=dt}\Rightarrow\boxed{dx=e^tdt}$ &nbsp;&nbsp;**(3 val.)**
+> 
+> $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx=$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDAxMTkwMSwtMjc2OTg0OTcxLDE2Mz
-kwOTYyNjcsLTc1NzUyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcx
-NzgsLTE3OTYzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbLTExMTYyODA3MjQsLTI3Njk4NDk3MSwxNj
+M5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3
+MTc4LC0xNzk2MzY2NzA2XX0=
 -->
