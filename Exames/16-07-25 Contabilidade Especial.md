@@ -15,16 +15,16 @@ Sabendo que é contínua em $\mathbb{R}\setminus{1}$, mostre que $f$ não é pro
 
 ### b) [10]
 Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa $2$.
-> - Para escrever a equação de uma reta necessitamos saber, **ponto de passo** e **declive**. **(2 val.)**
+> - Necessitamos saber, **ponto de passo** e **declive**. **(2 val.)**
 > - Ponto de passo = ponto de tangência=$(2,f(2))=(2,2+\tfrac{1}{2})=(2,\tfrac{5}{2})$. **(2 val.)**
 > - Declive = $f'(2)=2-\tfrac{1}{2^2}=\tfrac{7}{4}$. **(2 val.)**
 > - Equação da reta: $\frac{y-y_0}{x-x_0}=m$.
 > $\frac{y-\frac{5}{2}}{x-2}=\frac{7}{4}$.
 > $y=\frac{7}{4}(x-2)+\frac{5}{2}$
-> $4y=7x-4\iff 7x-4y=4$. **(3 val.)**
+> $4y=7x-4\iff 7x-4y=4$. **(4 val.)**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTM0ODM3NiwtMTc5NjM2NjcwNl19
+eyJoaXN0b3J5IjpbNzc1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
 -->
