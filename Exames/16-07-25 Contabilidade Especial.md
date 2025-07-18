@@ -19,10 +19,11 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 > - Ponto de passo = ponto de tangência=$(2,f(2))=(2,2+\tfrac{1}{2})=(2,\tfrac{5}{2})$. **(1 val.)**
 > - Declive = $f'(2)=2-\tfrac{1}{2^2}=\tfrac{7}{4}$. **(1 val.)**
 > - Equação da reta: $\frac{y-y_0}{x-x_0}=m$.
-> $\frac{y-}{}$
+> $\frac{y-\frac{5}{2}}{x-2}=\frac{7}{4}$.
+> $y=\frac{7}{4}(x-2)+\frac{5}{2}$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDA5Njk4MSwtMTc5NjM2NjcwNl19
+eyJoaXN0b3J5IjpbMTI3NTA0NTU4OCwtMTc5NjM2NjcwNl19
 -->
