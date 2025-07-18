@@ -27,7 +27,7 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 > 
 > $y=\frac{3}{4}(x-2)+\frac{5}{2}$
 > 
-> $4y=3x-6\iff 7x-4y=4$. **(4 val.)**
+> $4y=3x+4\iff 3x-4y=-4$. **(4 val.)**
 
 ### c) [15]
 Calcule $\displaystyle\lim_{x\to+\infty}\left(f(x)-\frac{1}{x}\right)^{\frac{1}{\ln(x+1)}}$
@@ -108,8 +108,8 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 > 
 > $\operatorname{Area}(\mathcal{R})=\displaystyle\int_{0}^1 (4-x^2 -3x)dx=\left(4x-\tfrac{x^3}{3}-3\tfrac{x^2}{2}\right)\Bigg|_0^1=4-\tfrac{1}{3}-\tfrac{3}{2}=\boxed{\tfrac{13}{6}}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY1MTk4ODMsMTMwMTc1MTYzOCwtNj
-A1ODI2NDU3LC0xOTk3Mjg1NSwxNDk1Nzc0MTk3LC0yNzY5ODQ5
-NzEsMTYzOTA5NjI2NywtNzU3NTI0MzE4LC0yMDE0MDQ1NzYxLD
-c3NTI2NzE3OCwtMTc5NjM2NjcwNl19
+eyJoaXN0b3J5IjpbMTQzMjczMzU5NCwxMzAxNzUxNjM4LC02MD
+U4MjY0NTcsLTE5OTcyODU1LDE0OTU3NzQxOTcsLTI3Njk4NDk3
+MSwxNjM5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNz
+c1MjY3MTc4LC0xNzk2MzY2NzA2XX0=
 -->
