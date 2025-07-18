@@ -106,13 +106,13 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 ![Região](https://i.imgur.com/ml8ATBs.png)
 > Cálculo da área. &nbsp;&nbsp;**(4 val.)**
 > 
-> $\operatorname{Area}(\mathcal{R})=\int_{0}^1 4-x^2 -3x$
+> $\operatorname{Area}(\mathcal{R})=\displaystyle\int_{0}^1 (4-x^2 -3x)dx=\left(4x-\tfrac{x^3}{3}-3\tfrac{x^2}{2}\right)\$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTQxNDQsLTYwNTgyNjQ1NywtMTk5Nz
-I4NTUsMTQ5NTc3NDE5NywtMjc2OTg0OTcxLDE2MzkwOTYyNjcs
-LTc1NzUyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OT
-YzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDI2MTg2MCwtNjA1ODI2NDU3LC0xOT
+k3Mjg1NSwxNDk1Nzc0MTk3LC0yNzY5ODQ5NzEsMTYzOTA5NjI2
+NywtNzU3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3OCwtMT
+c5NjM2NjcwNl19
 -->
