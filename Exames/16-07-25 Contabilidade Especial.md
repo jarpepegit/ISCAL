@@ -53,13 +53,13 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 > Substituição: $\boxed{u=5x}$ então $\boxed{du=5dx}$ &nbsp;&nbsp;**(2 val.)**
 > Cálculo do integral indefinido &nbsp;&nbsp;**(3 val.)**
 > $$f(x)=\displaystyle\int x + \ln(5x)\,dx = \frac{x^2}{2}+\frac{1}{5}(5x\ln(5x)-5x)+ C.$$
-> Uso da condição inicial: $f(1)=-\frac{1}{2}$
-> $$-\tfrac{1}{2}=f(1)=\tfrac{1}{2}+\tfrac{1}{5}(5\ln(5)-5)+C=\ln(5)-\tfrac{1}{2}+C\implies C=-\ln(5).$$
+> Uso da condição inicial: $\boxed{f(1)=-\frac{1}{2}}$ &nbsp;&nbsp;**(2 val.)**
+> $$-\tfrac{1}{2}=f(1)=\tfrac{1}{2}+\tfrac{1}{5}(5\ln(5)-5)+C\implies C=-\ln(5).$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA4MDQ5MCwxNjM5MDk2MjY3LC03NT
-c1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4LC0xNzk2MzY2
-NzA2XX0=
+eyJoaXN0b3J5IjpbNjU5Njk5ODM1LDE2MzkwOTYyNjcsLTc1Nz
+UyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3
+MDZdfQ==
 -->
