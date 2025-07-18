@@ -9,12 +9,12 @@ Sabendo que é contínua em $\mathbb{R}\setminus{1}$, mostre que $f$ não é pro
 
 > - Cá, o que basicamente temos de mostrar é que o $\displaystyle\lim_{x\to 1} f(x)$ não existe. **(4 val.)**
 > - Cálculo dos limites laterais
-> $\displaystyle\lim_{x\to 1^-}f(x)=\displaystyle\lim_{x\to 1^-}x^2+e^{x^2}=1+e$. **(3 val.)**
-> $\displaystyle\lim_{x\to 1^+}f(x)=\displaystyle\lim_{x\to 1^+}x+\dfrac{1}{x}=1+1=2$. **(3 val.)**
-> 
+> $L_-=\displaystyle\lim_{x\to 1^-}f(x)=\displaystyle\lim_{x\to 1^-}x^2+e^{x^2}=1+e$. **(3 val.)**
+> $L_+=\displaystyle\lim_{x\to 1^+}f(x)=\displaystyle\lim_{x\to 1^+}x+\dfrac{1}{x}=1+1=2$. **(3 val.)**
+> - Conclusão: $L_-\neq L_+$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDgyMjkwMF19
+eyJoaXN0b3J5IjpbMTI3NzAxNjI0XX0=
 -->
