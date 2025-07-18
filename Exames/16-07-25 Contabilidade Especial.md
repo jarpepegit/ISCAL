@@ -41,14 +41,15 @@ Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 > - $f'(x)>0$ para qualquer $0<x<1$ **(3 val.)**
 > 
 > **Interpretação:** 
-> - $f$ é **decrescente** em $]-\infty,0$
-> - $f$ é crescente em $]0,1[$
+> - $f$ é **decrescente** em $]-\infty,0[$
+> - $f$ é crescente em $]0,1[$ **(4 val.)**
+> - $f$ tem um **mínimo relativo** em $x=0$. **(2 val.)*
 > 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3ODY0NTMwLDE2MzkwOTYyNjcsLTc1Nz
-UyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzE4MzkwMiwxNjM5MDk2MjY3LC03NT
+c1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4LC0xNzk2MzY2
+NzA2XX0=
 -->
