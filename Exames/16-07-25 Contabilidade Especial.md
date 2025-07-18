@@ -7,14 +7,14 @@ $$f(x)=\begin{cases} x^2+e^{x^2} & x<1\\[2ex] x+\dfrac{1}{x} & x>1\end{cases}$$
 ### a) [10] 
 Sabendo que é contínua em $\mathbb{R}\setminus{1}$, mostre que $f$ não é prolongável por continuidade a $\mathbb{R}$.
 
-> - Cá, o que basicamente temos de mostrar é que o $L=\displaystyle\lim_{x\to 1} f(x)$ não existe. **(4 val.)**
+> - Basicamente temos que mostrar que  $L=\displaystyle\lim_{x\to 1} f(x)$ não existe. **(2 val.)**
 > - Cálculo dos limites laterais
 > $L_-=\displaystyle\lim_{x\to 1^-}f(x)=\displaystyle\lim_{x\to 1^-}x^2+e^{x^2}=1+e$. **(3 val.)**
 > $L_+=\displaystyle\lim_{x\to 1^+}f(x)=\displaystyle\lim_{x\to 1^+}x+\dfrac{1}{x}=1+1=2$. **(3 val.)**
-> - Conclusão: $L_-\neq L_+\implies L$ não existe. Portanto, **não** podemos definir $f(1)=L$. **(1 val.)**
+> - Conclusão: $L_-\neq L_+\implies L$ não existe. Portanto, **não** podemos definir $f(1)=L$. **(2 val.)**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg5Nzk4OV19
+eyJoaXN0b3J5IjpbLTM4NDQ2MzExMF19
 -->
