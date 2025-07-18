@@ -54,12 +54,12 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 > Cálculo do integral indefinido
 > $$f(x)=\displaystyle\int x + \ln(5x)\,dx = \frac{x^2}{2}+\frac{1}{5}(5x\ln(5x)-5x)+ C$$ **(3 val.)**
 > Uso da condição inicial: $f(1)=-\frac{1}{2}$
-> $$-\tfrac{1}{2}=f(1)=\tfrac{1}{2}+\frac{1}{5}(5)$$
+> $$-\tfrac{1}{2}=f(1)=\tfrac{1}{2}+\tfrac{1}{5}(5\ln(5)-5)+C=\ln(5)-\tfrac{1}{2}.$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MzY1MjExLDE2MzkwOTYyNjcsLTc1Nz
+eyJoaXN0b3J5IjpbODkzMjc2NzcyLDE2MzkwOTYyNjcsLTc1Nz
 UyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3
 MDZdfQ==
 -->
