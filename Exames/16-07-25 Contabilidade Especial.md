@@ -53,6 +53,7 @@ Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 > - $f$ é **decrescente** em $]-\infty,0[$ **(2 val.)**
 > - $f$ é **crescente** em $]0,1[$ **(2 val.)**
 > - $f$ tem um **mínimo relativo** em $x=0$. **(2 val.)**
+> - Valor mínimo relativo: $f(0)=1$.
 
 ## 2.
 ### a) [10]
@@ -108,8 +109,9 @@ Represente geometricamente a região do plano definida por $\boxed{3x\le y\le 4-
 > 
 > $\operatorname{Area}(\mathcal{R})=\displaystyle\int_{0}^1 (4-x^2 -3x)dx=\left(4x-\tfrac{x^3}{3}-3\tfrac{x^2}{2}\right)\Bigg|_0^1=4-\tfrac{1}{3}-\tfrac{3}{2}=\boxed{\tfrac{13}{6}}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTI3NzI1MCwxNDMyNzMzNTk0LDEzMD
-E3NTE2MzgsLTYwNTgyNjQ1NywtMTk5NzI4NTUsMTQ5NTc3NDE5
-NywtMjc2OTg0OTcxLDE2MzkwOTYyNjcsLTc1NzUyNDMxOCwtMj
-AxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDEyNjgxODksMTk1OTI3NzI1MCwxND
+MyNzMzNTk0LDEzMDE3NTE2MzgsLTYwNTgyNjQ1NywtMTk5NzI4
+NTUsMTQ5NTc3NDE5NywtMjc2OTg0OTcxLDE2MzkwOTYyNjcsLT
+c1NzUyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYz
+NjY3MDZdfQ==
 -->
