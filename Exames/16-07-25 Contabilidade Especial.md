@@ -72,12 +72,12 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 Calcule $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx$, efetuando a mudança de variável $\ln x=t$.
 > $\boxed{\ln x=t}\Rightarrow\boxed{\frac{1}{x}dx=dt}\Rightarrow\boxed{dx=e^tdt}$ &nbsp;&nbsp;**(3 val.)**
 > 
-> $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx=$
+> $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx=\displaystyle\int_0^1\frac{4+t}{x+x\ln x}\,dx$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTE2MTU4MCwtMjc2OTg0OTcxLDE2Mz
-kwOTYyNjcsLTc1NzUyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcx
-NzgsLTE3OTYzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbNjU3ODY0OTI0LC0yNzY5ODQ5NzEsMTYzOT
+A5NjI2NywtNzU3NTI0MzE4LC0yMDE0MDQ1NzYxLDc3NTI2NzE3
+OCwtMTc5NjM2NjcwNl19
 -->
