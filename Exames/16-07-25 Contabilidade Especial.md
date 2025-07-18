@@ -17,10 +17,10 @@ Sabendo que é contínua em $\mathbb{R}\setminus{1}$, mostre que $f$ não é pro
 Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa $2$.
 > - Para escrever a equação de uma reta necessitamos saber, **ponto de passo** e **declive**. **(2 val.)**
 > - Ponto de passo = ponto de tangência=$(2,f(2))=(2,2+\tfrac{1}{2})=(2,\tfrac{5}{2})$. **(1 val.)**
-> - Declive = 
+> - Declive = $f'(2)$=2-\tfrac{1}{2^2}=
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbMjA0MTE0NTQyNCwtMTc5NjM2NjcwNl19
 -->
