@@ -72,12 +72,12 @@ Determine $f(x)$ tal que $f'(x)=x+\ln(5x)$ e $f(1)=-\frac{1}{2}$.
 Calcule $\displaystyle\int_1^e\frac{4+\ln x}{x+x\ln x}\,dx$, efetuando a mudança de variável $\ln x=t$.
 > $\boxed{\ln x=t}\Rightarrow\boxed{\frac{1}{x}dx=dt}\Rightarrow\boxed{dx=e^tdt}$ &nbsp;&nbsp;**(3 val.)**
 > 
-> $\displaystyle\int_1^e\frac{4+\ln x}{x(1+\ln x)}\,dx=\displaystyle\int_0^1\frac{4+t}{\cancel{e^t}(1+t)}\,\cancel{e^t}\,dt=\displaystyle\int_0^1\frac{3}{(1+t)}\,dt+$
+> $\displaystyle\int_1^e\frac{4+\ln x}{x(1+\ln x)}\,dx=\displaystyle\int_0^1\frac{4+t}{\cancel{e^t}(1+t)}\,\cancel{e^t}\,dt=\displaystyle\int_0^1\frac{3}{(1+t)}\,dt+\displaystyle\int_0^1 1\,dt=3\ln(1+t)\Big|_0^1+t\Big|_0^1$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUzMzc4NTIsLTI3Njk4NDk3MSwxNj
-M5MDk2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3
-MTc4LC0xNzk2MzY2NzA2XX0=
+eyJoaXN0b3J5IjpbLTQ2ODYzNDMsLTI3Njk4NDk3MSwxNjM5MD
+k2MjY3LC03NTc1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4
+LC0xNzk2MzY2NzA2XX0=
 -->
