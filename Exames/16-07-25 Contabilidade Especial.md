@@ -18,10 +18,11 @@ Determine uma equação da reta tangente ao gráfico de $f$ no ponto de abcissa 
 > - Para escrever a equação de uma reta necessitamos saber, **ponto de passo** e **declive**. **(2 val.)**
 > - Ponto de passo = ponto de tangência=$(2,f(2))=(2,2+\tfrac{1}{2})=(2,\tfrac{5}{2})$. **(1 val.)**
 > - Declive = $f'(2)=2-\tfrac{1}{2^2}=\tfrac{7}{4}$. **(1 val.)**
-> - 
+> - Equação da reta: $\frac{y-y_0}{x-x_0}=m$.
+> $\frac{y-}{}$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMjk5MzEsLTE3OTYzNjY3MDZdfQ==
+eyJoaXN0b3J5IjpbLTIzNDA5Njk4MSwtMTc5NjM2NjcwNl19
 -->
