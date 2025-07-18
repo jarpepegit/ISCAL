@@ -40,13 +40,15 @@ Para $x<1$, estude $f$ quanto à monotonia e existência de extremos relativos.
 > - $f'(x)<0$ para qualquer $x<0$ 
 > - $f'(x)>0$ para qualquer $0<x<1$ **(3 val.)**
 > 
-> Isto significa que $f$ é **decrescente** em $x<0$
+> **Interpretação:** 
+> - $f$ é **decrescente** em $]-\infty,0$
+> - $f$ é crescente em $]0,1[$
 > 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjI5NTc2NCwxNjM5MDk2MjY3LC03NT
-c1MjQzMTgsLTIwMTQwNDU3NjEsNzc1MjY3MTc4LC0xNzk2MzY2
-NzA2XX0=
+eyJoaXN0b3J5IjpbOTY3ODY0NTMwLDE2MzkwOTYyNjcsLTc1Nz
+UyNDMxOCwtMjAxNDA0NTc2MSw3NzUyNjcxNzgsLTE3OTYzNjY3
+MDZdfQ==
 -->
