@@ -67,7 +67,8 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Esboço do gráfico em torno de 1**
 
 ![Esboço do Gráfico](https://raw.githubusercontent.com/jarpepegit/ISCAL/main//Matematica/EsbocoGraf.png)
 
-$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Conclusões que podemos tirar do esboço do gra´
+$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Conclusões que podemos tirar do esboço do gráfico em torno de 1**
+$x=1$ **não é mínimo relativo** porque $\forall I$ (intervalo aberto centrado em $1$ suficientemente pequeno), e
 
 
 
@@ -91,9 +92,9 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Conclusões que podemos tirar do esb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA5NTU2NTcsLTE4MDQ4NzI0NDQsLT
-E2NDg1OTM3MDcsLTIwOTMzMTE1NzksMjE2MzIzOTEwLDEyNDk3
-OTg4MzcsLTMxMTY5NDY1MSw5MzYzNjUzMDEsMTI3Nzg1NzkxNC
-wxMzQxNDExMzk5LC0xMDM0NDYwNzY5LC0xNDA5MjU2OTEyXX0=
+eyJoaXN0b3J5IjpbLTUzMzAxNDA1NCwtMTgwNDg3MjQ0NCwtMT
+Y0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5MTAsMTI0OTc5
+ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMjc3ODU3OTE0LD
+EzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDkyNTY5MTJdfQ==
 
 -->
