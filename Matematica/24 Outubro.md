@@ -9,7 +9,7 @@ $$f(x)=\begin{cases}\arctan(2-x), & x<1\\[2ex] 3x+6\ln x, & x\ge 1\end{cases}\qu
 
 
 <center>
-Critérios de correção
+<b><u>Critérios de correção</u></b>
 </center>
 
 $\colorbox{yellow}{\textbf{3 val.}}$ $\hspace{0.2cm}\underline{x<1}:\quad f(x)=\arctan(2-x)$ é a composição de duas funções contínuas: $\boxed{\arctan(x)}$, contínua em $\mathbb{R}$, e $\boxed{2-x}$, contínua também em $\mathbb{R}$ (é um polinómio). Portanto, a composição $\boxed{\arctan(2-x)}$ é contínua, em particular, em $]-\infty,1[$.
@@ -98,9 +98,9 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Não se verificam outros extremos re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA4ODMwMzIsODI2NzI3OTIyLC0xOD
-A0ODcyNDQ0LC0xNjQ4NTkzNzA3LC0yMDkzMzExNTc5LDIxNjMy
-MzkxMCwxMjQ5Nzk4ODM3LC0zMTE2OTQ2NTEsOTM2MzY1MzAxLD
-EyNzc4NTc5MTQsMTM0MTQxMTM5OSwtMTAzNDQ2MDc2OSwtMTQw
-OTI1NjkxMl19
+eyJoaXN0b3J5IjpbMTM1NTEzMTQ5NCw4MjY3Mjc5MjIsLTE4MD
+Q4NzI0NDQsLTE2NDg1OTM3MDcsLTIwOTMzMTE1NzksMjE2MzIz
+OTEwLDEyNDk3OTg4MzcsLTMxMTY5NDY1MSw5MzYzNjUzMDEsMT
+I3Nzg1NzkxNCwxMzQxNDExMzk5LC0xMDM0NDYwNzY5LC0xNDA5
+MjU2OTEyXX0=
 -->
