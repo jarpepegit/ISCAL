@@ -59,7 +59,7 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matematica/AnaliseSinais.png)
 
-![Análise]
+![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/1d23e1d2acbcfd1c57bf2ef26518067a616d6ba9/Matematica/AnaliseSinais.png)
 
 https://github.com/jarpepegit/ISCAL/blob/1d23e1d2acbcfd1c57bf2ef26518067a616d6ba9/Matematica/AnaliseSinais.png
 
@@ -82,7 +82,7 @@ https://github.com/jarpepegit/ISCAL/blob/1d23e1d2acbcfd1c57bf2ef26518067a616d6ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMwMDA2MzIsMTI0OTc5ODgzNywtMz
-ExNjk0NjUxLDkzNjM2NTMwMSwxMjc3ODU3OTE0LDEzNDE0MTEz
-OTksLTEwMzQ0NjA3NjksLTE0MDkyNTY5MTJdfQ==
+eyJoaXN0b3J5IjpbMjE2MzIzOTEwLDEyNDk3OTg4MzcsLTMxMT
+Y5NDY1MSw5MzYzNjUzMDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5
+LC0xMDM0NDYwNzY5LC0xNDA5MjU2OTEyXX0=
 -->
