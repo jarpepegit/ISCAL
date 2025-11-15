@@ -57,11 +57,14 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; **Conclusão:** $f$ não tem pont
 
 $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_0=1$; então $\nexists\,f'(1)$.
 
-**Análise de Sinais**
+---
 
-$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp;
+$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Análise de sinais**
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matematica/AnaliseSinais.png)
+
+$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Esboço do gráfico em torno de 1**
+
 
 
 
@@ -84,7 +87,7 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYwNzI0OTAsLTE2NDg1OTM3MDcsLT
+eyJoaXN0b3J5IjpbLTE4MDQ4NzI0NDQsLTE2NDg1OTM3MDcsLT
 IwOTMzMTE1NzksMjE2MzIzOTEwLDEyNDk3OTg4MzcsLTMxMTY5
 NDY1MSw5MzYzNjUzMDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5LC
 0xMDM0NDYwNzY5LC0xNDA5MjU2OTEyXX0=
