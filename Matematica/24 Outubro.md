@@ -68,7 +68,10 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Esboço do gráfico em torno de 1**
 ![Esboço do Gráfico](https://raw.githubusercontent.com/jarpepegit/ISCAL/main//Matematica/EsbocoGraf.png)
 
 $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Conclusões que podemos tirar do esboço do gráfico em torno de 1**
-$x=1$ **não é mínimo relativo** porque $\forall I$ (intervalo aberto centrado em $1$ suficientemente pequeno), e
+$x=1$ **não é mínimo relativo** porque $\forall I$ (intervalo aberto centrado em $1$ suficientemente pequeno), existem $x,y\in I$, tais que $f(y)\le f(1)\le f(x)$.
+
+$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; Não existe
+
 
 
 
@@ -92,9 +95,8 @@ $x=1$ **não é mínimo relativo** porque $\forall I$ (intervalo aberto centrado
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzAxNDA1NCwtMTgwNDg3MjQ0NCwtMT
-Y0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5MTAsMTI0OTc5
-ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMjc3ODU3OTE0LD
-EzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDkyNTY5MTJdfQ==
-
+eyJoaXN0b3J5IjpbMzg5MDU2ODgyLC0xODA0ODcyNDQ0LC0xNj
+Q4NTkzNzA3LC0yMDkzMzExNTc5LDIxNjMyMzkxMCwxMjQ5Nzk4
+ODM3LC0zMTE2OTQ2NTEsOTM2MzY1MzAxLDEyNzc4NTc5MTQsMT
+M0MTQxMTM5OSwtMTAzNDQ2MDc2OSwtMTQwOTI1NjkxMl19
 -->
