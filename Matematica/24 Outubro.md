@@ -65,6 +65,9 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Análise de sinais**
 
 $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Esboço do gráfico em torno de 1**
 
+![Esboço do Gráfico](https://raw.githubusercontent.com/jarpepegit/ISCAL/main//Matematica/EsbocoGraf.png)
+
+
 
 
 
@@ -87,8 +90,9 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Esboço do gráfico em torno de 1**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ4NzI0NDQsLTE2NDg1OTM3MDcsLT
-IwOTMzMTE1NzksMjE2MzIzOTEwLDEyNDk3OTg4MzcsLTMxMTY5
-NDY1MSw5MzYzNjUzMDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5LC
-0xMDM0NDYwNzY5LC0xNDA5MjU2OTEyXX0=
+eyJoaXN0b3J5IjpbLTQ4NzM1MTE3NiwtMTgwNDg3MjQ0NCwtMT
+Y0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5MTAsMTI0OTc5
+ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMjc3ODU3OTE0LD
+EzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDkyNTY5MTJdfQ==
+
 -->
