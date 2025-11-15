@@ -41,9 +41,9 @@ $\colorbox{lightblue}{\textbf{1 val.}}$ &nbsp; $f'(x)=3+\dfrac{6}{x}\quad,\quad 
 
 $\colorbox{lightblue}{\textbf{1 val.}}$ &nbsp; $f$ não é contínua em $x_0=1\implies$ $\nexists$ &nbsp; $f'(1)$.
 
-**Pontos críticos**
+---
 
-**Regulares:** pontos onde $f'(x)=0$.
+**Pontos críticos regulares:** pontos onde $f'(x)=0$.
 
 $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; para $x<1\quad,\quad f'(x)=\dfrac{-1}{\underbrace{1+(2-x)^2}_{>0,\,\, \forall\, x\in\mathbb{R}}}<0$. Logo, $f'(x)=0$ **não tem solução**.
 
@@ -51,7 +51,9 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; para $x>1\quad,\quad f'(x)=3+\dfr
 
 $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; **Conclusão:** $f$ não tem pontos críticos regulares.
 
-**Singulares:** pontos onde $\nexists\,f'(x)$.
+---
+
+**Pontos críticos singulares:** pontos onde $\nexists\,f'(x)$.
 
 $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_0=1$; então $\nexists\,f'(1)$.
 
@@ -82,8 +84,8 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1OTM3MDcsLTIwOTMzMTE1NzksMj
-E2MzIzOTEwLDEyNDk3OTg4MzcsLTMxMTY5NDY1MSw5MzYzNjUz
-MDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5LC0xMDM0NDYwNzY5LC
-0xNDA5MjU2OTEyXX0=
+eyJoaXN0b3J5IjpbLTExNDYwNzI0OTAsLTE2NDg1OTM3MDcsLT
+IwOTMzMTE1NzksMjE2MzIzOTEwLDEyNDk3OTg4MzcsLTMxMTY5
+NDY1MSw5MzYzNjUzMDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5LC
+0xMDM0NDYwNzY5LC0xNDA5MjU2OTEyXX0=
 -->
