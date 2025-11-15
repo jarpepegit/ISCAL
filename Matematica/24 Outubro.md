@@ -61,7 +61,6 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 
 
-![Prob2bFicha8](https://raw.githubusercontent.com/jarpepegit/Tutoring/main/Francisco/Prob2bFicha8.png)
 
 
 
@@ -78,6 +77,7 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MzY1MzAxLDEyNzc4NTc5MTQsMTM0MT
-QxMTM5OSwtMTAzNDQ2MDc2OSwtMTQwOTI1NjkxMl19
+eyJoaXN0b3J5IjpbLTExMzY0Njg3NDAsOTM2MzY1MzAxLDEyNz
+c4NTc5MTQsMTM0MTQxMTM5OSwtMTAzNDQ2MDc2OSwtMTQwOTI1
+NjkxMl19
 -->
