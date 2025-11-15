@@ -80,8 +80,9 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjkwODEyNCwtMzExNjk0NjUxLDkzNj
-M2NTMwMSwxMjc3ODU3OTE0LDEzNDE0MTEzOTksLTEwMzQ0NjA3
-NjksLTE0MDkyNTY5MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTAyMDk0NTQsLTMxMTY5NDY1MSw5Mz
+YzNjUzMDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5LC0xMDM0NDYw
+NzY5LC0xNDA5MjU2OTEyXX0=
 -->
