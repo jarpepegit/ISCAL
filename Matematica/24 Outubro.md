@@ -70,7 +70,7 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Esboço do gráfico em torno de 1**
 $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Conclusões que podemos tirar do esboço do gráfico em torno de 1**
 $x=1$ **não é mínimo relativo** porque $\forall I$ (intervalo aberto centrado em $1$ suficientemente pequeno), existem $x,y\in I$, tais que $f(y)\le f(1)\le f(x)$.
 
-$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; Não existem mais extremos relativos porque de ser o caso, teriam de ter sido detectados como zeros de $f'(x)=0$ (Teorema de Fermat)
+$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; Não se verificam outros extremos relativos, uma vez que, caso existissem, teriam necessariamente sido detetados como zeros de $f'(x)=0$, conforme estabelece o Teorema de Fermat, e já vimos que $f$ não tem pontos críticos regulares.
 
 
 
@@ -95,8 +95,9 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; Não existem mais extremos relativos p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4OTgwMjksLTE4MDQ4NzI0NDQsLTE2ND
-g1OTM3MDcsLTIwOTMzMTE1NzksMjE2MzIzOTEwLDEyNDk3OTg4
-MzcsLTMxMTY5NDY1MSw5MzYzNjUzMDEsMTI3Nzg1NzkxNCwxMz
-QxNDExMzk5LC0xMDM0NDYwNzY5LC0xNDA5MjU2OTEyXX0=
+eyJoaXN0b3J5IjpbMjA0NzA1OTYzNywtMTgwNDg3MjQ0NCwtMT
+Y0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5MTAsMTI0OTc5
+ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMjc3ODU3OTE0LD
+EzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDkyNTY5MTJdfQ==
+
 -->
