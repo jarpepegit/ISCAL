@@ -57,7 +57,7 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 **Análise de Sinais**
 
-$\colorbox{lemm}{\textbf{1 val.}}$ &nbsp;
+$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp;
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matematica/AnaliseSinais.png)
 
@@ -82,8 +82,8 @@ $\colorbox{lemm}{\textbf{1 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2OTI1MDY3LC0yMDkzMzExNTc5LDIxNj
-MyMzkxMCwxMjQ5Nzk4ODM3LC0zMTE2OTQ2NTEsOTM2MzY1MzAx
-LDEyNzc4NTc5MTQsMTM0MTQxMTM5OSwtMTAzNDQ2MDc2OSwtMT
-QwOTI1NjkxMl19
+eyJoaXN0b3J5IjpbLTE2NDg1OTM3MDcsLTIwOTMzMTE1NzksMj
+E2MzIzOTEwLDEyNDk3OTg4MzcsLTMxMTY5NDY1MSw5MzYzNjUz
+MDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5LC0xMDM0NDYwNzY5LC
+0xNDA5MjU2OTEyXX0=
 -->
