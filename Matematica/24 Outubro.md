@@ -61,7 +61,7 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; **Conclusão:** $f$ não tem pont
 
 **Pontos críticos singulares:** pontos onde $\nexists\,f'(x)$.
 
-$\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_0=1$; então $\nexists\,f'(1)$.
+$\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_0=1$; então $\nexists\,f'(1)$, e, portanto, $x_0=1$ é um ponto crítico singular.
 
 ---
 
@@ -101,9 +101,9 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Não se verificam outros extremos re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NzExOTIxLDgyNjcyNzkyMiwtMTgwND
-g3MjQ0NCwtMTY0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5
-MTAsMTI0OTc5ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMj
-c3ODU3OTE0LDEzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDky
-NTY5MTJdfQ==
+eyJoaXN0b3J5IjpbNTU5NzMxNTEzLDc0NDcxMTkyMSw4MjY3Mj
+c5MjIsLTE4MDQ4NzI0NDQsLTE2NDg1OTM3MDcsLTIwOTMzMTE1
+NzksMjE2MzIzOTEwLDEyNDk3OTg4MzcsLTMxMTY5NDY1MSw5Mz
+YzNjUzMDEsMTI3Nzg1NzkxNCwxMzQxNDExMzk5LC0xMDM0NDYw
+NzY5LC0xNDA5MjU2OTEyXX0=
 -->
