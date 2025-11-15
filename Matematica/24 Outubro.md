@@ -59,6 +59,7 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matematica/AnaliseSinais.png)
 
+
 ![Prob2bFicha8](https://raw.githubusercontent.com/jarpepegit/Tutoring/main/Francisco/Prob2bFicha8.png)
 
 
@@ -76,6 +77,6 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY0MDM5NzYsLTEwMzQ0NjA3NjksLT
-E0MDkyNTY5MTJdfQ==
+eyJoaXN0b3J5IjpbLTc3ODg2NTE3OCwtMTAzNDQ2MDc2OSwtMT
+QwOTI1NjkxMl19
 -->
