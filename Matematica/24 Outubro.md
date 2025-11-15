@@ -5,7 +5,7 @@
 
 **1.** Considere as funções reais de variável real $f$, $g$, e $h$ definidas por
 $$f(x)=\begin{cases}\arctan(2-x), & x<1\\[2ex] 3x+6\ln x, & x\ge 1\end{cases}\quad\Bigg|\quad g(x)=4-4e^{2x-4}\quad\Bigg|\quad h(x)=\sin x+2e^x$$
-> a) [15] Estude a continuidade da função $f$ em todos os pontos do domínio e averigue a existência de assíntotas verticais no gráfico.
+> **a) [15] Estude a continuidade da função $f$ em todos os pontos do domínio e averigue a existência de assíntotas verticais no gráfico.**
 
 **Critérios de correção**
 
@@ -31,7 +31,7 @@ $\colorbox{lightgreen}{\textbf{1 val.}}$ &nbsp; **Conclusão:** &nbsp; $\nexists
 
 ---
 
-> b) [15] Estude $f$ quanto à monotonia e extremos relativos.
+> **b) [15] Estude $f$ quanto à monotonia e extremos relativos.**
 
 **Critérios de correção**
 
@@ -70,7 +70,7 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Esboço do gráfico em torno de 1**
 $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Conclusões que podemos tirar do esboço do gráfico em torno de 1**
 $x=1$ **não é mínimo relativo** porque $\forall I$ (intervalo aberto centrado em $1$ suficientemente pequeno), existem $x,y\in I$, tais que $f(y)\le f(1)\le f(x)$.
 
-$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; Não se verificam outros extremos relativos, uma vez que, caso existissem, teriam necessariamente sido detetados como zeros de $f'(x)=0$, conforme estabelece o Teorema de Fermat, e já vimos que $f$ não tem pontos críticos regulares.
+$\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Não se verificam outros extremos relativos**, uma vez que, caso existissem, teriam necessariamente sido detetados como zeros de $f'(x)=0$, conforme estabelece o Teorema de Fermat, e já vimos que $f$ não tem pontos críticos regulares.
 
 
 
@@ -95,7 +95,7 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; Não se verificam outros extremos rela
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzA1OTYzNywtMTgwNDg3MjQ0NCwtMT
+eyJoaXN0b3J5IjpbMjA0MDI2MDU5NywtMTgwNDg3MjQ0NCwtMT
 Y0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5MTAsMTI0OTc5
 ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMjc3ODU3OTE0LD
 EzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDkyNTY5MTJdfQ==
