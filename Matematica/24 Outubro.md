@@ -5,6 +5,7 @@
 
 **1.** Considere as funções reais de variável real $f$, $g$, e $h$ definidas por
 $$f(x)=\begin{cases}\arctan(2-x), & x<1\\[2ex] 3x+6\ln x, & x\ge 1\end{cases}\quad\Bigg|\quad g(x)=4-4e^{2x-4}\quad\Bigg|\quad h(x)=\sin x+2e^x$$
+
 > **a) [15] Estude a continuidade da função $f$ em todos os pontos do domínio e averigue a existência de assíntotas verticais no gráfico.**
 
 
@@ -36,7 +37,9 @@ $\colorbox{lightgreen}{\textbf{1 val.}}$ &nbsp; **Conclusão:** &nbsp; $\nexists
 
 > **b) [15] Estude $f$ quanto à monotonia e extremos relativos.**
 
-**Critérios de correção**
+<center>
+<b><u>Critérios de correção</u></b>
+</center>
 
 $\colorbox{lightblue}{\textbf{1 val.}}$ &nbsp; $f'(x)=\dfrac{-1}{1+(2-x)^2}\quad,\quad x<1$.
 
@@ -98,9 +101,9 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Não se verificam outros extremos re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTEzMTQ5NCw4MjY3Mjc5MjIsLTE4MD
-Q4NzI0NDQsLTE2NDg1OTM3MDcsLTIwOTMzMTE1NzksMjE2MzIz
-OTEwLDEyNDk3OTg4MzcsLTMxMTY5NDY1MSw5MzYzNjUzMDEsMT
-I3Nzg1NzkxNCwxMzQxNDExMzk5LC0xMDM0NDYwNzY5LC0xNDA5
-MjU2OTEyXX0=
+eyJoaXN0b3J5IjpbNzQ0NzExOTIxLDgyNjcyNzkyMiwtMTgwND
+g3MjQ0NCwtMTY0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5
+MTAsMTI0OTc5ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMj
+c3ODU3OTE0LDEzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDky
+NTY5MTJdfQ==
 -->
