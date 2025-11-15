@@ -57,6 +57,8 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 **Análise de Sinais**
 
+$\colorbox{lemm}{\textbf{1 val.}}$ &nbsp;
+
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matematica/AnaliseSinais.png)
 
 
@@ -80,8 +82,8 @@ $\colorbox{lightblue}{\textbf{2 val.}}$ &nbsp; Como $f$ não é contínua em $x_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMzMTE1NzksMjE2MzIzOTEwLDEyND
-k3OTg4MzcsLTMxMTY5NDY1MSw5MzYzNjUzMDEsMTI3Nzg1Nzkx
-NCwxMzQxNDExMzk5LC0xMDM0NDYwNzY5LC0xNDA5MjU2OTEyXX
-0=
+eyJoaXN0b3J5IjpbNzk2OTI1MDY3LC0yMDkzMzExNTc5LDIxNj
+MyMzkxMCwxMjQ5Nzk4ODM3LC0zMTE2OTQ2NTEsOTM2MzY1MzAx
+LDEyNzc4NTc5MTQsMTM0MTQxMTM5OSwtMTAzNDQ2MDc2OSwtMT
+QwOTI1NjkxMl19
 -->
