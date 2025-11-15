@@ -7,6 +7,10 @@
 $$f(x)=\begin{cases}\arctan(2-x), & x<1\\[2ex] 3x+6\ln x, & x\ge 1\end{cases}\quad\Bigg|\quad g(x)=4-4e^{2x-4}\quad\Bigg|\quad h(x)=\sin x+2e^x$$
 > **a) [15] Estude a continuidade da função $f$ em todos os pontos do domínio e averigue a existência de assíntotas verticais no gráfico.**
 
+<div style="text-align: center;">
+  Esta frase está centrada.
+</div>
+
 **Critérios de correção**
 
 $\colorbox{yellow}{\textbf{3 val.}}$ $\hspace{0.2cm}\underline{x<1}:\quad f(x)=\arctan(2-x)$ é a composição de duas funções contínuas: $\boxed{\arctan(x)}$, contínua em $\mathbb{R}$, e $\boxed{2-x}$, contínua também em $\mathbb{R}$ (é um polinómio). Portanto, a composição $\boxed{\arctan(2-x)}$ é contínua, em particular, em $]-\infty,1[$.
@@ -95,9 +99,8 @@ $\colorbox{cyan}{\textbf{1 val.}}$ &nbsp; **Não se verificam outros extremos re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDI2MDU5NywtMTgwNDg3MjQ0NCwtMT
-Y0ODU5MzcwNywtMjA5MzMxMTU3OSwyMTYzMjM5MTAsMTI0OTc5
-ODgzNywtMzExNjk0NjUxLDkzNjM2NTMwMSwxMjc3ODU3OTE0LD
-EzNDE0MTEzOTksLTEwMzQ0NjA3NjksLTE0MDkyNTY5MTJdfQ==
-
+eyJoaXN0b3J5IjpbODI2NzI3OTIyLC0xODA0ODcyNDQ0LC0xNj
+Q4NTkzNzA3LC0yMDkzMzExNTc5LDIxNjMyMzkxMCwxMjQ5Nzk4
+ODM3LC0zMTE2OTQ2NTEsOTM2MzY1MzAxLDEyNzc4NTc5MTQsMT
+M0MTQxMTM5OSwtMTAzNDQ2MDc2OSwtMTQwOTI1NjkxMl19
 -->
