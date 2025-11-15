@@ -4,10 +4,10 @@
 ---
 **1.** Estabeleça correspondências de modo a obter proposições verdadeiras:
 
-(1) Se $\lim_{x}
+(1) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $\displaystyle\lim_{x\to a}g(x)=0$ então $\displaystyle\lim_{x\to a}(f(x))^$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NTE3NjU0XX0=
+eyJoaXN0b3J5IjpbLTM5NDcyNzk1OV19
 -->
