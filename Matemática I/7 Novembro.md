@@ -1,6 +1,6 @@
 # Matemática I
 ## Licenciatura em Gestão
-### Teste 1
+### Teste 1 &n7 de Novembro
 ---
 **1.** Estabeleça correspondências de modo a obter proposições verdadeiras:
 
@@ -21,18 +21,18 @@ Para calcular o domínio de $f$, notar que $\sqrt{x}\ge0$.
 Para calcular o contradomínio de $f$, notar que
 $$\begin{align*}\sqrt{x}\ge0 &\Rightarrow e^{\sqrt{x}}\ge e^0=1\\[2ex]&\Rightarrow \tfrac{1}{3}e^{\sqrt{x}}\ge \tfrac{1}{3}\\[2ex]&\Rightarrow \underbrace{\tfrac{1}{3}e^{\sqrt{x}}-1}_y\ge \tfrac{1}{3}-1=-\tfrac{2}{3}\end{align*}$$
 
----
+--- 
 
 $\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{matrix}$
 
 ---
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Lei de transformação
-$$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\\[2ex]&\Leftrightarrow e^{\sqrt{y}}=3+3x\\[2ex]&\Leftrightarrow \sqrt{y}=\ln(3+3x)\\[2ex]&\Leftrightarrow \boxy=\ln^2(3+3x)\end{align*}$$
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Lei de transformação**
+$$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\\[2ex]&\Leftrightarrow e^{\sqrt{y}}=3+3x\\[2ex]&\Leftrightarrow \sqrt{y}=\ln(3+3x)\\[2ex]&\Leftrightarrow \boxed{y=\ln^2(3+3x)}\end{align*}$$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjcyNzU5NCwxNjcwMjIzNDEzLDM1Mz
-cwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYw
-XX0=
+eyJoaXN0b3J5IjpbNDY5NDA4NzExLDE2NzAyMjM0MTMsMzUzNz
+A1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBd
+fQ==
 -->
