@@ -27,6 +27,7 @@ $\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yell
 
 ---
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Lei de transformação**
+
 $$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\\[2ex]&\Leftrightarrow e^{\sqrt{y}}=3+3x\\[2ex]&\Leftrightarrow \sqrt{y}=\ln(3+3x)\\[2ex]&\Leftrightarrow \boxed{y=\ln^2(3+3x)}\end{align*}$$
 
 ---
@@ -43,7 +44,7 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAwNjk3MTMsNTEwMzM5OTc5LDE2Nz
-AyMjM0MTMsMzUzNzA1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMz
-Nyw1MjEyNjEwNjBdfQ==
+eyJoaXN0b3J5IjpbLTEzNDg4ODMxOTksLTEwNjAwNjk3MTMsNT
+EwMzM5OTc5LDE2NzAyMjM0MTMsMzUzNzA1NjM5LDE1MDM4MTI1
+NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBdfQ==
 -->
