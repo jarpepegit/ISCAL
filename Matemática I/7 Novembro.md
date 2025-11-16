@@ -26,11 +26,12 @@ $$\begin{align*}\sqrt{x}\ge0 &\Rightarrow e^{\sqrt{x}}\ge e^0=1\\[2ex]&\Rightarr
 $\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{matrix}$
 
 ---
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Lei de transformação
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkzNDMxMDMsMzUzNzA1NjM5LDE1MD
-M4MTI1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBdfQ==
+eyJoaXN0b3J5IjpbNDk1NDM4NzgxLDM1MzcwNTYzOSwxNTAzOD
+EyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYwXX0=
 -->
