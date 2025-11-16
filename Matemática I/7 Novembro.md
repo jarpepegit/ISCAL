@@ -42,13 +42,14 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f''(x)=-\frac{1}{4(x+1)^{\fra
 
 $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; **Polinómio de Maclaurin**
 
+$$\boxed{p_{2,0}^f(x)=1+\tfrac{1}{2}x-\tfrac{1}{8}x^2}$$
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc4OTMzOTksLTE3Mzg5NDk3NDIsLT
+eyJoaXN0b3J5IjpbLTE3NDIxNjk5MDksLTE3Mzg5NDk3NDIsLT
 ExNjEwNDQ1OTAsLTE0NzI0NzE2MTEsOTQ3NTA1OSw5NDc1MDU5
 LC0xMDYwMDY5NzEzLDUxMDMzOTk3OSwxNjcwMjIzNDEzLDM1Mz
 cwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYw
