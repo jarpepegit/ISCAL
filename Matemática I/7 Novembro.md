@@ -29,7 +29,7 @@ $$\begin{array}{ccccc}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorb
 ---
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Lei de transformação**
 
-$$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\quad\Leftrightarrow e^{\sqrt{y}}-3=3x\\[2ex]&\Leftrightarrow e^{\sqrt{y}}=3+3x\\[2ex]&\Leftrightarrow \sqrt{y}=\ln(3+3x)\\[2ex]&\Leftrightarrow \boxed{y=\ln^2(3+3x)}\end{align*}$$
+$$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\quad\Leftrightarrow\quad e^{\sqrt{y}}-3=3x\\[2ex]&\quad\Leftrightarrow\quad e^{\sqrt{y}}=3+3x\\[2ex]&\quad\Leftrightarrow\quad \sqrt{y}=\ln(3+3x)\\[2ex]&\quad\Leftrightarrow\quad \boxed{y=\ln^2(3+3x)}\end{align*}$$
 
 ---
 **3.** Calcule o polinómio de Maclaurin de ordem $2$ de $f(x)=\sqrt{x+1}$ e use-o para calcular um valor aproximado de $\sqrt{2}$.
@@ -45,8 +45,8 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTYzNjk3MSwtMTE2MTA0NDU5MCwtMT
-Q3MjQ3MTYxMSw5NDc1MDU5LDk0NzUwNTksLTEwNjAwNjk3MTMs
-NTEwMzM5OTc5LDE2NzAyMjM0MTMsMzUzNzA1NjM5LDE1MDM4MT
-I1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzg5NDk3NDIsLTExNjEwNDQ1OTAsLT
+E0NzI0NzE2MTEsOTQ3NTA1OSw5NDc1MDU5LC0xMDYwMDY5NzEz
+LDUxMDMzOTk3OSwxNjcwMjIzNDEzLDM1MzcwNTYzOSwxNTAzOD
+EyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYwXX0=
 -->
