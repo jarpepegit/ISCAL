@@ -30,12 +30,14 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Lei de transformação**
 $$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\\[2ex]&\Leftrightarrow e^{\sqrt{y}}=3+3x\\[2ex]&\Leftrightarrow \sqrt{y}=\ln(3+3x)\\[2ex]&\Leftrightarrow \boxed{y=\ln^2(3+3x)}\end{align*}$$
 
 ---
-**3.** Calcu
+**3.** Calcule o polinómio de Maclaurin de ordem $2$ de $f(x)=\sqrt{x+1}$ e use-o para calcular um valor aproximado de $\sqrt{2}$.
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTUxMzczNSwxNjcwMjIzNDEzLDM1Mz
-cwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYw
-XX0=
+eyJoaXN0b3J5IjpbNTEwMzM5OTc5LDE2NzAyMjM0MTMsMzUzNz
+A1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBd
+fQ==
 -->
