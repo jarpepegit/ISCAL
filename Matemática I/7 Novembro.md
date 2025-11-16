@@ -1,6 +1,6 @@
 # Matemática I
 ## Licenciatura em Gestão
-### Teste 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<center> 7 de Novembro
+### Teste 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 de Novembro
 ---
 **1.** Estabeleça correspondências de modo a obter proposições verdadeiras:
 
@@ -8,7 +8,7 @@
 
 (2) Se $\displaystyle\lim_{x\to a}f(x)=0^+$ e $\displaystyle\lim_{x\to a}g(x)=-7$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0^{-7}=+\infty$ é uma indeterminação. $\boxed{(1)-(C)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
-(3) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $g$ é uma função estritamente crescente numa vizinhança de $a$, com limite nulo então  $\displaystyle\lim_{x\to a}\frac{f(x)}{g(x)}=\cdots(3)-(C)$ ou $(3)-(D)$  $\colorbox{yellow}{\textbf{0,5 val.}}$ 
+(3) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $g$ é uma função estritamente crescente numa vizinhança de $a$, com limite nulo então  $\displaystyle\lim_{x\to a}\frac{f(x)}{g(x)}=\cdots\boxed{(3)-(C)}$ ou $\boxed{(3)-(D)}$  $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
 (4) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $\displaystyle\lim_{x\to a}g(x)=-\infty$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0$ $\boxed{(4)-(E)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
@@ -32,7 +32,7 @@ $$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MjEwNzUyLDE2NzAyMjM0MTMsMzUzNz
-A1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBd
-fQ==
+eyJoaXN0b3J5IjpbMjAwMzgyNTk1MSwxNjcwMjIzNDEzLDM1Mz
+cwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYw
+XX0=
 -->
