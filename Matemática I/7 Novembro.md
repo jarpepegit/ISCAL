@@ -13,10 +13,10 @@
 (4) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $\displaystyle\lim_{x\to a}g(x)=-\infty$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0$ $\boxed{(4)-(E)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
 ---
-**2.** Sendo $f(x)=\frac{1}{3}e^
+**2.** Sendo $f(x)=\frac{1}{3}e^{\sqrt{x}}-1$, caracterize a função inversa (lei de transformação, domínio e contradomínio).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIwMjcyMDcsNTIxMjYxMDYwXX0=
+eyJoaXN0b3J5IjpbMTE0MTU4ODMzNyw1MjEyNjEwNjBdfQ==
 -->
