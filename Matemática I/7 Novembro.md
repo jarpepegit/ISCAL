@@ -38,16 +38,19 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f(x)=\sqrt{x+1}\quad\Rightarr
 
 $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f'(x)=\frac{1}{2\sqrt{x+1}}\quad\Rightarrow\quad f'(0)=\frac{1}{2}$.
 
-$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f''(x)=-\frac{1}{4(x+1)^{\frac{3}{2}}}\quad\Rightarrow\quad f''(0)=-\frac{1}{4}$
+$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f''(x)=-\frac{1}{4(x+1)^{\frac{3}{2}}}\quad\Rightarrow\quad f''(0)=-\frac{1}{4}$.
+
+$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; **Polinómio de Maclaurin**
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTUyNjQwMywtMTczODk0OTc0MiwtMT
-E2MTA0NDU5MCwtMTQ3MjQ3MTYxMSw5NDc1MDU5LDk0NzUwNTks
-LTEwNjAwNjk3MTMsNTEwMzM5OTc5LDE2NzAyMjM0MTMsMzUzNz
-A1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBd
-fQ==
+eyJoaXN0b3J5IjpbLTEzMjc4OTMzOTksLTE3Mzg5NDk3NDIsLT
+ExNjEwNDQ1OTAsLTE0NzI0NzE2MTEsOTQ3NTA1OSw5NDc1MDU5
+LC0xMDYwMDY5NzEzLDUxMDMzOTk3OSwxNjcwMjIzNDEzLDM1Mz
+cwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYw
+XX0=
 -->
