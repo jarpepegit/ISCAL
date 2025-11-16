@@ -15,8 +15,11 @@
 ---
 **2.** Sendo $f(x)=\frac{1}{3}e^{\sqrt{x}}-1$, caracterize a função inversa (lei de transformação, domínio e contradomínio).
 
+$\begin{}\textsf{D}_f=[0,+\infty[$
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTU4ODMzNyw1MjEyNjEwNjBdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzk1MTE2MzksMTE0MTU4ODMzNyw1Mj
+EyNjEwNjBdfQ==
 -->
