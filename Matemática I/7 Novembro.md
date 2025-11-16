@@ -19,13 +19,13 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Cálculo do domínio e contradomí
 
 Para calcular o domínio de $f$, notar que $\sqrt{x}\ge0$.
 Para calcular o contradomínio de $f$, notar que
-$$\begin{align}\end{align}
+$$\begin{align}\sqrt{x}\ge0 &\Rightarrow e^{\sqrt{x}}\ge e^0=1\\[2ex]&\Rightarrow \frac{1}{}\end{align}
 
 $\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{matrix}$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NzM0MDE2LDM1MzcwNTYzOSwxNTAzOD
-EyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYwXX0=
+eyJoaXN0b3J5IjpbNjg3Mzk2MDgsMzUzNzA1NjM5LDE1MDM4MT
+I1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBdfQ==
 -->
