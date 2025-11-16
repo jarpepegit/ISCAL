@@ -32,16 +32,18 @@ $$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\
 ---
 **3.** Calcule o polinómio de Maclaurin de ordem $2$ de $f(x)=\sqrt{x+1}$ e use-o para calcular um valor aproximado de $\sqrt{2}$.
 
-$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f(x)=\sqrt{x+1}\quad\Rightarrow\quad f(0)=1$
+$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f(x)=\sqrt{x+1}\quad\Rightarrow\quad f(0)=1$.
 
+$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f'(x)=\frac{1}{2\sqrt{x+1}}\quad\Rightarrow\quad f'(0)=\frac{1}{2}$.
 
+$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODY0NDYyOCw1MTAzMzk5NzksMTY3MD
-IyMzQxMywzNTM3MDU2MzksMTUwMzgxMjU3NSwxMTQxNTg4MzM3
-LDUyMTI2MTA2MF19
+eyJoaXN0b3J5IjpbLTEwNjAwNjk3MTMsNTEwMzM5OTc5LDE2Nz
+AyMjM0MTMsMzUzNzA1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMz
+Nyw1MjEyNjEwNjBdfQ==
 -->
