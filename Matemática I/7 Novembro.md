@@ -19,11 +19,12 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Cálculo do domínio e contradomí
 
 Para calcular o domínio de $f$, notar que $\sqrt{x}\ge0$.
 Para calcular o contradomínio de $f$, notar que
+
 $$\begin{align*}\sqrt{x}\ge0 &\Rightarrow e^{\sqrt{x}}\ge e^0=1\\[2ex]&\Rightarrow \tfrac{1}{3}e^{\sqrt{x}}\ge \tfrac{1}{3}\\[2ex]&\Rightarrow \underbrace{\tfrac{1}{3}e^{\sqrt{x}}-1}_y\ge \tfrac{1}{3}-1=-\tfrac{2}{3}\end{align*}$$
 
 --- 
 
-$\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{matrix}$
+$$\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{matrix}$$
 
 ---
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Lei de transformação**
@@ -44,7 +45,7 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4ODMxOTksLTEwNjAwNjk3MTMsNT
-EwMzM5OTc5LDE2NzAyMjM0MTMsMzUzNzA1NjM5LDE1MDM4MTI1
-NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBdfQ==
+eyJoaXN0b3J5IjpbOTQ3NTA1OSwtMTA2MDA2OTcxMyw1MTAzMz
+k5NzksMTY3MDIyMzQxMywzNTM3MDU2MzksMTUwMzgxMjU3NSwx
+MTQxNTg4MzM3LDUyMTI2MTA2MF19
 -->
