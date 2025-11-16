@@ -6,7 +6,7 @@
 
 (1) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $\displaystyle\lim_{x\to a}g(x)=0$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=+\infty^0$ é uma indeterminação. $\boxed{(1)-(A)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
-(2) Se $\displaystyle\lim_{x\to a}f(x)=0^+$ e $\displaystyle\lim_{x\to a}g(x)=-7$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0^{-7}=+\infty$ é uma indeterminação. $\boxed{(1)-(C)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
+(2) Se $\displaystyle\lim_{x\to a}f(x)=0^+$ e $\displaystyle\lim_{x\to a}g(x)=-7$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0^{-7}=+\infty$  $\boxed{(1)-(C)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
 (3) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $g$ é uma função estritamente crescente numa vizinhança de $a$, com limite nulo então  $\displaystyle\lim_{x\to a}\frac{f(x)}{g(x)}=+\infty\,\,\, \textsf{ ou }-\infty$ $\boxed{(3)-(C)}$ ou $\boxed{(3)-(D)}$  $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
@@ -32,7 +32,7 @@ $$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI0MzU3MzQsMTY3MDIyMzQxMywzNT
+eyJoaXN0b3J5IjpbLTE2NTI1MDQ1MzMsMTY3MDIyMzQxMywzNT
 M3MDU2MzksMTUwMzgxMjU3NSwxMTQxNTg4MzM3LDUyMTI2MTA2
 MF19
 -->
