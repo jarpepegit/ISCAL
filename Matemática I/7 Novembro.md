@@ -16,14 +16,16 @@
 **2.** Sendo $f(x)=\frac{1}{3}e^{\sqrt{x}}-1$, caracterize a função inversa (lei de transformação, domínio e contradomínio).
 
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Cálculo do domínio e contradomínio de $f$
+
 Para calcular o domínio de $f$, notar que $\sqrt{x}\ge0$.
-Para calc
+Para calcular o contradomínio de $f$, notar que
+$$\begin{align}\end{align}
 
 $\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{matrix}$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDg5NTUwNywzNTM3MDU2MzksMTUwMz
-gxMjU3NSwxMTQxNTg4MzM3LDUyMTI2MTA2MF19
+eyJoaXN0b3J5IjpbOTE4NzM0MDE2LDM1MzcwNTYzOSwxNTAzOD
+EyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYwXX0=
 -->
