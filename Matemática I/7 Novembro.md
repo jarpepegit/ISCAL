@@ -10,10 +10,13 @@
 
 (3) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $g$ é uma função estritamente crescente numa vizinhança de $a$, com limite nulo então  $\displaystyle\lim_{x\to a}\frac{f(x)}{g(x)}=\cdots(3)-(C)$ ou $(3)-(D)$  $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
-(4) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $\displaystyle\lim_{x\to a}g(x)=-\infty$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=$ é uma indeterminação. $\boxed{(1)-(A)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
+(4) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $\displaystyle\lim_{x\to a}g(x)=-\infty$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0$ $\boxed{(4)-(E)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
+
+---
+**2.** Sendo $f(x)=\frac{1}{3}e^
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzQyNDM2LDUyMTI2MTA2MF19
+eyJoaXN0b3J5IjpbLTEwNTIwMjcyMDcsNTIxMjYxMDYwXX0=
 -->
