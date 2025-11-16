@@ -27,11 +27,11 @@ $\begin{matrix}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yell
 
 ---
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Lei de transformação
-$$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\\[2ex]&\Leftrightarrow e^{\sqrt{y}}=3+3x\\[2ex]&\Leftrightarrow \underbrace{\tfrac{1}{3}e^{\sqrt{x}}-1}_y\ge \tfrac{1}{3}-1=-\tfrac{2}{3}\end{align*}$$
+$$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\\[2ex]&\Leftrightarrow e^{\sqrt{y}}=3+3x\\[2ex]&\Leftrightarrow \sqrt{y}=\ln(3+3x)\\[2ex]&\Leftrightarrow y\end{align*}$$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNDg0OTI1LDM1MzcwNTYzOSwxNTAzOD
-EyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYwXX0=
+eyJoaXN0b3J5IjpbLTQyMzE0NTU0MiwzNTM3MDU2MzksMTUwMz
+gxMjU3NSwxMTQxNTg4MzM3LDUyMTI2MTA2MF19
 -->
