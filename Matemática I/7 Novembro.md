@@ -1,6 +1,6 @@
 # Matemática I
 ## Licenciatura em Gestão
-### Teste 1 &n7 de Novembro
+### Teste 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<center> 7 de Novembro
 ---
 **1.** Estabeleça correspondências de modo a obter proposições verdadeiras:
 
@@ -32,7 +32,7 @@ $$\begin{align*}\tfrac{1}{3}e^{\sqrt{y}}-1=x &\Leftrightarrow e^{\sqrt{y}}-3=3x\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NDA4NzExLDE2NzAyMjM0MTMsMzUzNz
+eyJoaXN0b3J5IjpbNTc3MjEwNzUyLDE2NzAyMjM0MTMsMzUzNz
 A1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBd
 fQ==
 -->
