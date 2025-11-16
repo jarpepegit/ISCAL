@@ -24,7 +24,7 @@ $$\begin{align*}\sqrt{x}\ge0 &\Rightarrow e^{\sqrt{x}}\ge e^0=1\\[2ex]&\Rightarr
 
 --- 
 
-$$\begin{array}{}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{array}$$
+$$\begin{array}{ccccc}\textsf{D}_f &=&[0,+\infty[&=&\textsf{D}'_{f^-1} & \colorbox{yellow}{\textbf{0,5 val.}}\\[2ex] \textsf{D}'_f&=&\left[-\frac{2}{3},+\infty\right[&=&\textsf{D}_{f^{-1}} & \colorbox{yellow}{\textbf{0,5 val.}}\end{array}$$
 
 ---
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Lei de transformação**
@@ -45,8 +45,8 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI0NzE2MTEsOTQ3NTA1OSw5NDc1MD
-U5LC0xMDYwMDY5NzEzLDUxMDMzOTk3OSwxNjcwMjIzNDEzLDM1
-MzcwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMD
-YwXX0=
+eyJoaXN0b3J5IjpbLTExNjEwNDQ1OTAsLTE0NzI0NzE2MTEsOT
+Q3NTA1OSw5NDc1MDU5LC0xMDYwMDY5NzEzLDUxMDMzOTk3OSwx
+NjcwMjIzNDEzLDM1MzcwNTYzOSwxNTAzODEyNTc1LDExNDE1OD
+gzMzcsNTIxMjYxMDYwXX0=
 -->
