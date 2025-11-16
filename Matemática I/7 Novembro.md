@@ -8,10 +8,10 @@
 
 (2) Se $\displaystyle\lim_{x\to a}f(x)=0^+$ e $\displaystyle\lim_{x\to a}g(x)=-7$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0^{-7}=+\infty$ é uma indeterminação. $\boxed{(1)-(C)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
-(3) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $g$ é uma função estritamente crescente numa vizinhança de $a$, com limite nulo então  $\displaystyle\lim_{x\to a}\frac{f(x)}{g(x)}=0$ então $\colorbox{yellow}{\textbf{0,5 val.}}$ 
+(3) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $g$ é uma função estritamente crescente numa vizinhança de $a$, com limite nulo então  $\displaystyle\lim_{x\to a}\frac{f(x)}{g(x)}=\cdots(3)-(D)$ ou $(3$  $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTMwMDMyMyw1MjEyNjEwNjBdfQ==
+eyJoaXN0b3J5IjpbMjExMjc5NDMyMCw1MjEyNjEwNjBdfQ==
 -->
