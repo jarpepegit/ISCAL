@@ -38,14 +38,14 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f(x)=\sqrt{x+1}\quad\Rightarr
 
 $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f'(x)=\frac{1}{2\sqrt{x+1}}\quad\Rightarrow\quad f'(0)=\frac{1}{2}$.
 
-$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; 
+$\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $f''(x)=
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE3NjQzODQsLTE3Mzg5NDk3NDIsLT
+eyJoaXN0b3J5IjpbLTE2NTE1MzA2MzAsLTE3Mzg5NDk3NDIsLT
 ExNjEwNDQ1OTAsLTE0NzI0NzE2MTEsOTQ3NTA1OSw5NDc1MDU5
 LC0xMDYwMDY5NzEzLDUxMDMzOTk3OSwxNjcwMjIzNDEzLDM1Mz
 cwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYw
