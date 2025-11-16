@@ -20,7 +20,7 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Cálculo do domínio e contradomí
 Para calcular o domínio de $f$, notar que $\sqrt{x}\ge0$.
 Para calcular o contradomínio de $f$, notar que
 
-$$\begin{align*}\sqrt{x}\ge0 &\Rightarrow e^{\sqrt{x}}\ge e^0=1\\[2ex]&\Rightarrow \tfrac{1}{3}e^{\sqrt{x}}\ge \tfrac{1}{3}\\[2ex]&\Rightarrow \underbrace{\tfrac{1}{3}e^{\sqrt{x}}-1}_y\ge \tfrac{1}{3}-1=-\tfrac{2}{3}\end{align*}$$
+$$\begin{align*}\sqrt{x}\ge0 &\quad\Rightarrow\quad e^{\sqrt{x}}\ge e^0=1\\[2ex]&\quad\Rightarrow\quad \tfrac{1}{3}e^{\sqrt{x}}\ge \tfrac{1}{3}\\[2ex]&\quad\Rightarrow\quad \underbrace{\tfrac{1}{3}e^{\sqrt{x}}-1}_y\ge \tfrac{1}{3}-1=-\tfrac{2}{3}\end{align*}$$
 
 --- 
 
@@ -45,8 +45,9 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg5NDk3NDIsLTExNjEwNDQ1OTAsLT
-E0NzI0NzE2MTEsOTQ3NTA1OSw5NDc1MDU5LC0xMDYwMDY5NzEz
-LDUxMDMzOTk3OSwxNjcwMjIzNDEzLDM1MzcwNTYzOSwxNTAzOD
-EyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYwXX0=
+eyJoaXN0b3J5IjpbLTEzNjE3NjQzODQsLTE3Mzg5NDk3NDIsLT
+ExNjEwNDQ1OTAsLTE0NzI0NzE2MTEsOTQ3NTA1OSw5NDc1MDU5
+LC0xMDYwMDY5NzEzLDUxMDMzOTk3OSwxNjcwMjIzNDEzLDM1Mz
+cwNTYzOSwxNTAzODEyNTc1LDExNDE1ODgzMzcsNTIxMjYxMDYw
+XX0=
 -->
