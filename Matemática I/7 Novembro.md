@@ -6,7 +6,7 @@
 
 (1) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $\displaystyle\lim_{x\to a}g(x)=0$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=+\infty^0$ é uma indeterminação. $\boxed{(1)-(A)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
-(2) Se $\displaystyle\lim_{x\to a}f(x)=0^+$ e $\displaystyle\lim_{x\to a}g(x)=-7$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0^{-7}=+\infty$  $\boxed{(1)-(C)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
+(2) Se $\displaystyle\lim_{x\to a}f(x)=0^+$ e $\displaystyle\lim_{x\to a}g(x)=-7$ então $\displaystyle\lim_{x\to a}(f(x))^{g(x)}=0^{-7}=+\infty$  $\boxed{(2)-(C)}$ $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
 (3) Se $\displaystyle\lim_{x\to a}f(x)=+\infty$ e $g$ é uma função estritamente crescente numa vizinhança de $a$, com limite nulo então  $\displaystyle\lim_{x\to a}\frac{f(x)}{g(x)}=+\infty\,\,\, \textsf{ ou }-\infty$ $\boxed{(3)-(C)}$ ou $\boxed{(3)-(D)}$  $\colorbox{yellow}{\textbf{0,5 val.}}$ 
 
@@ -51,9 +51,9 @@ $\colorbox{lightgreen}{\textbf{0,4 val.}}$ &nbsp; $\sqrt{2}=\sqrt{1+1}\quad\appr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTgzMjk2MCwtMTczODk0OTc0MiwtMT
-E2MTA0NDU5MCwtMTQ3MjQ3MTYxMSw5NDc1MDU5LDk0NzUwNTks
-LTEwNjAwNjk3MTMsNTEwMzM5OTc5LDE2NzAyMjM0MTMsMzUzNz
-A1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMzNyw1MjEyNjEwNjBd
-fQ==
+eyJoaXN0b3J5IjpbLTEyMzMxOTc1MDMsMTc3OTgzMjk2MCwtMT
+czODk0OTc0MiwtMTE2MTA0NDU5MCwtMTQ3MjQ3MTYxMSw5NDc1
+MDU5LDk0NzUwNTksLTEwNjAwNjk3MTMsNTEwMzM5OTc5LDE2Nz
+AyMjM0MTMsMzUzNzA1NjM5LDE1MDM4MTI1NzUsMTE0MTU4ODMz
+Nyw1MjEyNjEwNjBdfQ==
 -->
