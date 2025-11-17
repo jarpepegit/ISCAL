@@ -14,6 +14,9 @@ $$\textsf{C.S.}=]-1,5]$$
 
 $\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $2-\frac{6}{x+1}>0\quad\Leftrightarrow\quad\frac{2x-4}{x+1}>0$
 
+![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matem%C3%A1tica%20I/AnaliseSinais(2x-4)%3A(x%2B1).png)
+
+
 
 
 ---
@@ -22,6 +25,6 @@ $\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $2-\frac{6}{x+1}>0\quad\Leftrightarr
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDgyNzI3MiwtNTA4NDM2NjE3LC0yMD
-cwMTAxOTAwXX0=
+eyJoaXN0b3J5IjpbLTIxNDQzMTc5MTcsLTUwODQzNjYxNywtMj
+A3MDEwMTkwMF19
 -->
