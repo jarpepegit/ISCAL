@@ -4,7 +4,9 @@
 ---
 **3.** Resolva a inequação $\ln(2-\frac{6}{x+1})\le 0$, apresentando a solução na forma de intervalo ou união de intervalos.
 
-$\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Leftrightarrow\quad \e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0\quad\textsf{e}\quad\boxed{\quad 2-\frac{6}{x+1}>0}$
+$\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Leftrightarrow\quad \boxed{e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0}\quad\textsf{e}\quad\boxed{\quad 2-\frac{6}{x+1}>0}$
+
+$\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0\quad\Leftrightarrow\quad$
 
 
 ---
@@ -13,5 +15,5 @@ $\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Left
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MTY1MTcwLC0yMDcwMTAxOTAwXX0=
+eyJoaXN0b3J5IjpbNDA5OTMxNzIzLC0yMDcwMTAxOTAwXX0=
 -->
