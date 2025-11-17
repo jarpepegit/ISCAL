@@ -8,11 +8,7 @@ $\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Left
 
 $\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0\quad\Leftrightarrow\quad \left(2-\frac{6}{x+1}\right)\le 1\quad\Leftrightarrow\quad\frac{x-5}{x+1}\le 0$
 
-![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matematica/AnaliseSinais.png)
-
-Matemática I
-
-https://github.com/jarpepegit/ISCAL/tree/fd4a5f7500ec5cfca8ee6d2a4a2e0d83c85243d2/Matem%C3%A1tica%20I
+![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matem%C3%A1tica%20I/AnaliseSinais(x-5)%3A(x%2B1).png)
 
 
 ---
@@ -21,6 +17,6 @@ https://github.com/jarpepegit/ISCAL/tree/fd4a5f7500ec5cfca8ee6d2a4a2e0d83c85243d
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjU3NzQxLC01MDg0MzY2MTcsLTIwNz
-AxMDE5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE5NDgzNDY0OTUsLTUwODQzNjYxNywtMj
+A3MDEwMTkwMF19
 -->
