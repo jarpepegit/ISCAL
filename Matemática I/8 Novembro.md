@@ -38,10 +38,10 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Polinómio de Maclaurin de g de 
 $$\begin{align*}p^g_{3,0}(x) &=g(0)+\frac{g'(0)}{1!}x+\frac{g''(0)}{2!}x^2+\frac{g'''(0)}{3!}x^3\\[2ex]&=1+\frac{-2}{1!}x+\frac{4}{2!}x^2+\frac{-8}{3!}x^3\\[2ex]&=1-2x+2x^2-\frac{4}{3}x^3\end{align*}.$$ 
 
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Valor aproximado de** $\frac{1}{e}$.
-$$\frac{
+$$\frac{1}{e}=e^{-1}=e^{-2(\frac{1}{2})}\approx$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjYyNjgzMyw4Njc5MjcwNjgsLTUwOD
+eyJoaXN0b3J5IjpbLTU3ODU5NTgyNSw4Njc5MjcwNjgsLTUwOD
 QzNjYxNywtMjA3MDEwMTkwMF19
 -->
