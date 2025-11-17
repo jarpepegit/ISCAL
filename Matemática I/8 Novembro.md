@@ -30,11 +30,15 @@ $$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\quad\Leftrightarr
 
 (b) Determine o polinómio de **Maclaurin** de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g''(x)=4e^{-2x}\quad\Rightarrow\quad$
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g''(x)=4e^{-2x}\quad\Rightarrow\quad g''(0)=4$.
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g'''(x)=-8e^{-2x}\quad\Rightarrow\quad $
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g'''(x)=-8e^{-2x}\quad\Rightarrow\quad g'''(0)=-8$.
+
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Polinómio de Maclaurin:** 
+$$p$$ 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NjMzODUsODY3OTI3MDY4LC01MDg0Mz
-Y2MTcsLTIwNzAxMDE5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjMwMjk3MjUsODY3OTI3MDY4LC01MD
+g0MzY2MTcsLTIwNzAxMDE5MDBdfQ==
 -->
