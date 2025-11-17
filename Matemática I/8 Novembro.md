@@ -12,21 +12,23 @@ $\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\righ
 
 $$\textsf{C.S.}_1=]-1,5]$$
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $2-\frac{6}{x+1}>0\quad\Leftrightarrow\quad\frac{2x-4}{x+1}>0$
+$\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $2-\frac{6}{x+1}>0\quad\Leftrightarrow\quad\frac{2x-4}{x+1}>0$
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matem%C3%A1tica%20I/AnaliseSinais(2x-4)%3A(x%2B1).png)
 
 $$\textsf{C.S.}_2=]-\infty,-1[\,\cup\,]2,+\infty[$$
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\cap\textsf{C.S.}_2=\,]2,5]$
+$\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\cap\textsf{C.S.}_2=\,]2,5]$
 
 
 ---
 **4.** Sendo $g(x)=e^{-2x}$:
 (a) Determine uma equação da reta tangente $r$ ao gráfico de $g$, no ponto de abscissa $0$ e, usando a fórmula do resto de Lagrange, mostre que "$g$ está por cima de $r$". 
 
+$\colorbox{yellow}{\textbf{1,5 val.}}$ &nbsp; 
+
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTU5ODAyMiw4Njc5MjcwNjgsLTUwOD
-QzNjYxNywtMjA3MDEwMTkwMF19
+eyJoaXN0b3J5IjpbNzMxNTIyNTg4LDg2NzkyNzA2OCwtNTA4ND
+M2NjE3LC0yMDcwMTAxOTAwXX0=
 -->
