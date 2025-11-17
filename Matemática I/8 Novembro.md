@@ -18,7 +18,7 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $2-\frac{6}{x+1}>0\quad\Leftrighta
 
 $$\textsf{C.S.}_2=]-\infty,-1[\,\cup\,]2,+\infty[$$
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\cap\textsf{C.S.}_2$
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\cap\textsf{C.S.}_2=\,]2,5]$
 
 
 ---
@@ -27,6 +27,6 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\cap
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc0Nzg2NDgsLTUwODQzNjYxNywtMj
-A3MDEwMTkwMF19
+eyJoaXN0b3J5IjpbODY3OTI3MDY4LC01MDg0MzY2MTcsLTIwNz
+AxMDE5MDBdfQ==
 -->
