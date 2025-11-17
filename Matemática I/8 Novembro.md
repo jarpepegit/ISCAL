@@ -10,6 +10,7 @@ $\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matem%C3%A1tica%20I/AnaliseSinais(x-5)%3A(x%2B1).png)
 
+$$\textsf{C.S.}=]-1,5]$$
 
 ---
 **4.** Sendo $g(x)=e^{-2x}$:
@@ -17,6 +18,6 @@ $\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgzNDY0OTUsLTUwODQzNjYxNywtMj
-A3MDEwMTkwMF19
+eyJoaXN0b3J5IjpbLTI1NTE0NjkwMywtNTA4NDM2NjE3LC0yMD
+cwMTAxOTAwXX0=
 -->
