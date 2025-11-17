@@ -25,16 +25,16 @@ $\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\ca
 **4.** Sendo $g(x)=e^{-2x}$:
 (a) Determine uma equação da reta tangente $r$ ao gráfico de $g$, no ponto de abscissa $0$ e, usando a fórmula do resto de Lagrange, mostre que "$g$ está por cima de $r$". 
 
-$\colorbox{yellow}{\textbf{1,5 val.}}$ &nbsp; $g(0)=1$&nbsp;,&nbsp;  $g'(x)=-2e^{-2x}\Rightarrow g'(0)=-2$. Então
+$\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $g(0)=1$&nbsp;,&nbsp;  $g'(x)=-2e^{-2x}\Rightarrow g'(0)=-2$. Então
 $$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\quad\Leftrightarrow\quad r=1-2x$$
 
-Usando o resto de Lagrange $r_1^g(x)=\frac{g''(\xi)}{2!}x^2$, com $0<\xi<x$ numa vizinhança de $0$, pelo Teorema de Taylor, temos que
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; Usando o resto de Lagrange $r_1^g(x)=\frac{g''(\xi)}{2!}x^2$, com $0<\xi<x$ numa vizinhança de $0$, pelo Teorema de Taylor, temos que
 
 $$g(x)=p^g_{1,0}(x)+r_1^g(x).$$
 
 Como $r_1^g(x)=\frac{g''(\xi)}{2!}x^2=\frac{4}{2!}e^{-2\xi}x^2>0$, segue-se que
 $$e^{-2x}=1-2x+r_1^g(x)>1-2x,$$
-numa vizinhança de $0$.
+ou seja, "$g$ está por cima de $r$ numa vizinhança de $0$".
 
 
 (b) Determine o polinómio de **Maclaurin** de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
@@ -51,6 +51,6 @@ $$\tfrac{1}{e}=e^{-1}=e^{-2(\frac{1}{2})}\approx p^g_{3,0}\left(\tfrac{1}{2}\rig
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTA3MTk1NCwxOTEzMzQyNzg0LDg2Nz
-kyNzA2OCwtNTA4NDM2NjE3LC0yMDcwMTAxOTAwXX0=
+eyJoaXN0b3J5IjpbNzQyOTgzMDE3LDE5MTMzNDI3ODQsODY3OT
+I3MDY4LC01MDg0MzY2MTcsLTIwNzAxMDE5MDBdfQ==
 -->
