@@ -30,9 +30,10 @@ $$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\quad\Leftrightarr
 
 Usando o resto de Lagrange $r_1^g(x)=\frac{g''(\xi)}{2!}x^2$, com $0<\xi<x$ numa vizinhança de $0$, pelo Teorema de Taylor, temos que
 
-$$g(x)=p^g_{1,0}(x)+r_1^g(x).$$
+$$r_1^g(x)=g(x)=p^g_{1,0}(x)+r_1^g(x).$$
 
-Como $\frac{g''(\xi)}{2!}x^2=\frac{4}{2!}e^{-2\}$
+Como $\frac{g''(\xi)}{2!}x^2=\frac{4}{2!}e^{-2\xi}x^2>0$, segue-se que
+$$e^{-2x}=1-2x+
 
 
 (b) Determine o polinómio de **Maclaurin** de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
@@ -49,6 +50,6 @@ $$\tfrac{1}{e}=e^{-1}=e^{-2(\frac{1}{2})}\approx p^g_{3,0}\left(\tfrac{1}{2}\rig
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDUwNTI4LDE5MTMzNDI3ODQsODY3OT
-I3MDY4LC01MDg0MzY2MTcsLTIwNzAxMDE5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzc2NDQ0NzUsMTkxMzM0Mjc4NCw4Nj
+c5MjcwNjgsLTUwODQzNjYxNywtMjA3MDEwMTkwMF19
 -->
