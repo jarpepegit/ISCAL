@@ -4,21 +4,21 @@
 ---
 **3.** Resolva a inequação $\ln(2-\frac{6}{x+1})\le 0$, apresentando a solução na forma de intervalo ou união de intervalos.
 
-$\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Leftrightarrow\quad \boxed{e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0}\quad\textsf{e}\quad\boxed{\quad 2-\frac{6}{x+1}>0}$
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Leftrightarrow\quad \boxed{e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0}\quad\textsf{e}\quad\boxed{\quad 2-\frac{6}{x+1}>0}$
 
-$\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0\quad\Leftrightarrow\quad \left(2-\frac{6}{x+1}\right)\le 1\quad\Leftrightarrow\quad\frac{x-5}{x+1}\le 0$
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0\quad\Leftrightarrow\quad \left(2-\frac{6}{x+1}\right)\le 1\quad\Leftrightarrow\quad\frac{x-5}{x+1}\le 0$
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matem%C3%A1tica%20I/AnaliseSinais(x-5)%3A(x%2B1).png)
 
-$$\textsf{C.S.}=]-1,5]$$
+$$\textsf{C.S.}_1=]-1,5]$$
 
-$\colorbox{yellow}{\textbf{1 val.}}$ &nbsp; $2-\frac{6}{x+1}>0\quad\Leftrightarrow\quad\frac{2x-4}{x+1}>0$
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $2-\frac{6}{x+1}>0\quad\Leftrightarrow\quad\frac{2x-4}{x+1}>0$
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matem%C3%A1tica%20I/AnaliseSinais(2x-4)%3A(x%2B1).png)
 
-$$\textsf{C.S.}=]-\infty,-1[\,\cup\,]2,+\infty[$$
+$$\textsf{C.S.}_2=]-\infty,-1[\,\cup\,]2,+\infty[$$
 
-
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; \textsf{C.S.}=\textsf{C.S.}_1\cap\textsf{C.S.}_2
 
 
 ---
@@ -27,6 +27,6 @@ $$\textsf{C.S.}=]-\infty,-1[\,\cup\,]2,+\infty[$$
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzI3ODQ0OCwtNTA4NDM2NjE3LC0yMD
-cwMTAxOTAwXX0=
+eyJoaXN0b3J5IjpbMzAwNjAzMTE2LC01MDg0MzY2MTcsLTIwNz
+AxMDE5MDBdfQ==
 -->
