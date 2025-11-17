@@ -35,13 +35,13 @@ $\colorbox{yellow}{\textbf{0,25 val.}}$ &nbsp; $g''(x)=4e^{-2x}\quad\Rightarrow\
 $\colorbox{yellow}{\textbf{0,25 val.}}$ &nbsp; $g'''(x)=-8e^{-2x}\quad\Rightarrow\quad g'''(0)=-8$.
 
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Polinómio de Maclaurin de g de ordem 3:** 
-$$\begin{align*}p^g_{3,0}(x) &=g(0)+\frac{g'(0)}{1!}x+\frac{g''(0)}{2!}x^2+\frac{g'''(0)}{3!}x^3\\[2ex]&=1+\frac{-2}{1!}x+\frac{4}{2!}x^2+\frac{-8}{3!}x^3\\[2ex]&=1-2x+2x^2-\frac{4}{3}x^3\end{align*}.$$ 
+$$\begin{align*}p^g_{3,0}(x) &=g(0)+\tfrac{g'(0)}{1!}x+\tfrac{g''(0)}{2!}x^2+\tfrac{g'''(0)}{3!}x^3\\[2ex]&=1+\tfrac{-2}{1!}x+\tfrac{4}{2!}x^2+\tfrac{-8}{3!}x^3\\[2ex]&=1-2x+2x^2-\tfrac{4}{3}x^3\end{align*}.$$ 
 
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Valor aproximado de** $\frac{1}{e}$.
-$$\frac{1}{e}=e^{-1}=e^{-2(\frac{1}{2})}\approx p^g_{3,0}\left(\tfrac{1}{2}\right)=1-2\tfrac{1}{2}+2\left\tfrac{1}{2}$$
+$$\tfrac{1}{e}=e^{-1}=e^{-2(\frac{1}{2})}\approx p^g_{3,0}\left(\tfrac{1}{2}\right)=1-2\tfrac{1}{2}+2\left(\tfrac{1}{2}\right)^2-\tfrac{4}{3}\left(\tfrac{1}{2}\right)^3$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njk3Mjc2LDg2NzkyNzA2OCwtNTA4ND
-M2NjE3LC0yMDcwMTAxOTAwXX0=
+eyJoaXN0b3J5IjpbLTEyODY5OTcxNTEsODY3OTI3MDY4LC01MD
+g0MzY2MTcsLTIwNzAxMDE5MDBdfQ==
 -->
