@@ -6,7 +6,7 @@
 
 ---
 **4.** Sendo $g(x)=e^{-2x}$:
-(a) Determine uma equação da reta tangente
+(a) Determine uma equação da reta tangente $r$ ao gráfico de $g$, no ponto de abscissa $0$ e, usando a fórmula do resto de Lagrange, mostre que $g$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MzA0OTM5XX0=
+eyJoaXN0b3J5IjpbMTIwMDYxMTMxM119
 -->
