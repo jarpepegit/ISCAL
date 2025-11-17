@@ -35,10 +35,10 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g''(x)=4e^{-2x}\quad\Rightarrow\q
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g'''(x)=-8e^{-2x}\quad\Rightarrow\quad g'''(0)=-8$.
 
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Polinómio de Maclaurin de g de ordem 3:** 
-$$p^g_{3,0}(x)=g(0)+\frac{g'(0)}{1!}x+\frac{g''(0)}{2!}x+\frac{g'''(0)}{3!}x^3$$ 
+$$\begin{align*}p^g_{3,0}(x) &=g(0)+\frac{g'(0)}{1!}x+\frac{g''(0)}{2!}x^2+\frac{g'''(0)}{3!}x^3\\[2ex]&=1\end{align}$$ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTIyNTMwNiw4Njc5MjcwNjgsLTUwOD
-QzNjYxNywtMjA3MDEwMTkwMF19
+eyJoaXN0b3J5IjpbLTEyODI0MDcwNTEsODY3OTI3MDY4LC01MD
+g0MzY2MTcsLTIwNzAxMDE5MDBdfQ==
 -->
