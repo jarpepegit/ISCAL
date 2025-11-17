@@ -6,7 +6,9 @@
 
 ---
 **4.** Sendo $g(x)=e^{-2x}$:
-(a) Determine uma equação da reta tangente $r$ ao gráfico de $g$, no ponto de abscissa $0$ e, usando a fórmula do resto de Lagrange, mostre que $g$ 
+(a) Determine uma equação da reta tangente $r$ ao gráfico de $g$, no ponto de abscissa $0$ e, usando a fórmula do resto de Lagrange, mostre que "$g$ está por cima de $r$". 
+
+(b) Determine o polinómio de Maclaurin de or
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDYxMTMxM119
+eyJoaXN0b3J5IjpbMTUwNjIyOTQzOF19
 -->
