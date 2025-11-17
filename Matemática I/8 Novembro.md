@@ -26,10 +26,10 @@ $\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\ca
 (a) Determine uma equação da reta tangente $r$ ao gráfico de $g$, no ponto de abscissa $0$ e, usando a fórmula do resto de Lagrange, mostre que "$g$ está por cima de $r$". 
 
 $\colorbox{yellow}{\textbf{1,5 val.}}$ &nbsp; $g(0)=1$&nbsp;,&nbsp;  $g'(x)=-2e^{-2x}\Rightarrow g'(0)=-2$. Então
-$$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\Leftrightarrow r=-1-2x$$
+$$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\quad\Leftrightarrow\quad r=1-2x$$
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMjU3MDkwLDg2NzkyNzA2OCwtNTA4ND
+eyJoaXN0b3J5IjpbODI1OTA3NDYzLDg2NzkyNzA2OCwtNTA4ND
 M2NjE3LC0yMDcwMTAxOTAwXX0=
 -->
