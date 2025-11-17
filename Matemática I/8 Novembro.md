@@ -28,11 +28,13 @@ $\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\ca
 $\colorbox{yellow}{\textbf{1,5 val.}}$ &nbsp; $g(0)=1$&nbsp;,&nbsp;  $g'(x)=-2e^{-2x}\Rightarrow g'(0)=-2$. Então
 $$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\quad\Leftrightarrow\quad r=1-2x$$
 
-(b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
+(b) Determine o polinómio de **Maclaurin** de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g''(x)=4e^{-2x}$
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g''(x)=4e^{-2x}\quad\Rightarrow\quad$
+
+$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g'''(x)=-8e^{-2x}\quad\Rightarrow\quad $
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjk2MDIyMSw4Njc5MjcwNjgsLTUwOD
-QzNjYxNywtMjA3MDEwMTkwMF19
+eyJoaXN0b3J5IjpbMjc5NjMzODUsODY3OTI3MDY4LC01MDg0Mz
+Y2MTcsLTIwNzAxMDE5MDBdfQ==
 -->
