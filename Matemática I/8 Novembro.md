@@ -28,7 +28,9 @@ $\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\ca
 $\colorbox{yellow}{\textbf{1,5 val.}}$ &nbsp; $g(0)=1$&nbsp;,&nbsp;  $g'(x)=-2e^{-2x}\Rightarrow g'(0)=-2$. Então
 $$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\quad\Leftrightarrow\quad r=1-2x$$
 
-Usando o resto de Lagrange $r_1^g(x)=\frac{g''(\xi)}{2!}x^2$, com $0<\xi<x$
+Usando o resto de Lagrange $r_1^g(x)=\frac{g''(\xi)}{2!}x^2$, com $0<\xi<x$ numa vizinhança de $0$, da identidade
+$$g(x)=p_{1,0}
+
 
 (b) Determine o polinómio de **Maclaurin** de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 
@@ -44,6 +46,6 @@ $$\tfrac{1}{e}=e^{-1}=e^{-2(\frac{1}{2})}\approx p^g_{3,0}\left(\tfrac{1}{2}\rig
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTY4MzA3OSwxOTEzMzQyNzg0LDg2Nz
-kyNzA2OCwtNTA4NDM2NjE3LC0yMDcwMTAxOTAwXX0=
+eyJoaXN0b3J5IjpbLTE1NjMzNjk5NTcsMTkxMzM0Mjc4NCw4Nj
+c5MjcwNjgsLTUwODQzNjYxNywtMjA3MDEwMTkwMF19
 -->
