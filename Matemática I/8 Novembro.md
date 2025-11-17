@@ -30,15 +30,15 @@ $$\textsf{\underline{Reta tangente}: }\quad  r=g(0)+g'(0)(x-0)\quad\Leftrightarr
 
 (b) Determine o polinómio de **Maclaurin** de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g''(x)=4e^{-2x}\quad\Rightarrow\quad g''(0)=4$.
+$\colorbox{yellow}{\textbf{0,25 val.}}$ &nbsp; $g''(x)=4e^{-2x}\quad\Rightarrow\quad g''(0)=4$.
 
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $g'''(x)=-8e^{-2x}\quad\Rightarrow\quad g'''(0)=-8$.
 
 $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; **Polinómio de Maclaurin de g de ordem 3:** 
-$$\begin{align*}p^g_{3,0}(x) &=g(0)+\frac{g'(0)}{1!}x+\frac{g''(0)}{2!}x^2+\frac{g'''(0)}{3!}x^3\\[2ex]&=1+\frac{-2}{1!}x+\frac{4}{2!}x^2+\frac{-8}{3!}x^3\end{align*}$$ 
+$$\begin{align*}p^g_{3,0}(x) &=g(0)+\frac{g'(0)}{1!}x+\frac{g''(0)}{2!}x^2+\frac{g'''(0)}{3!}x^3\\[2ex]&=1+\frac{-2}{1!}x+\frac{4}{2!}x^2+\frac{-8}{3!}x^3\\[2ex]&=1-2x+2x^2-\frac{4}{3}x^3\end{align*}.$$ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzUxMTYwMiw4Njc5MjcwNjgsLTUwOD
-QzNjYxNywtMjA3MDEwMTkwMF19
+eyJoaXN0b3J5IjpbLTE3OTAyNDg4MjAsODY3OTI3MDY4LC01MD
+g0MzY2MTcsLTIwNzAxMDE5MDBdfQ==
 -->
