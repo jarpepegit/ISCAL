@@ -4,9 +4,9 @@
 ---
 **3.** Resolva a inequação $\ln(2-\frac{6}{x+1})\le 0$, apresentando a solução na forma de intervalo ou união de intervalos.
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Leftrightarrow\quad \boxed{e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0}\quad\textsf{e}\quad\boxed{\quad 2-\frac{6}{x+1}>0}$
+$\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $\ln(2-\frac{6}{x+1})\le 0\quad\Leftrightarrow\quad \boxed{e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0}\quad\textsf{e}\quad\boxed{\quad 2-\frac{6}{x+1}>0}$
 
-$\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0\quad\Leftrightarrow\quad \left(2-\frac{6}{x+1}\right)\le 1\quad\Leftrightarrow\quad\frac{x-5}{x+1}\le 0$
+$\colorbox{yellow}{\textbf{0,75 val.}}$ &nbsp; $e^{\ln\left(2-\frac{6}{x+1}\right)}\le e^0\quad\Leftrightarrow\quad \left(2-\frac{6}{x+1}\right)\le 1\quad\Leftrightarrow\quad\frac{x-5}{x+1}\le 0$
 
 ![Análise de Sinais](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/Matem%C3%A1tica%20I/AnaliseSinais(x-5)%3A(x%2B1).png)
 
@@ -27,6 +27,6 @@ $\colorbox{yellow}{\textbf{0,5 val.}}$ &nbsp; $\textsf{C.S.}=\textsf{C.S.}_1\cap
 
 (b) Determine o polinómio de Maclaurin de ordem $3$ de $g$ e use-o para obter um valor aproximado de $\frac{1}{e}$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3OTI3MDY4LC01MDg0MzY2MTcsLTIwNz
-AxMDE5MDBdfQ==
+eyJoaXN0b3J5IjpbLTg2MTU5ODAyMiw4Njc5MjcwNjgsLTUwOD
+QzNjYxNywtMjA3MDEwMTkwMF19
 -->
