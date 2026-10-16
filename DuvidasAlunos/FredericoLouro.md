@@ -1,8 +1,9 @@
 
-![Esboço do gráfico](https://raw.githubusercontent.com/jarpepegit/main/ISCAL/DuvidasAlunos/FredericoLouro.png)
+![Esboço do gráfico](https://raw.githubusercontent.com/jarpepegit/ISCAL/main/DuvidasAlunos/FredericoLouro.png)
 
+Como 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTg4NTI2Miw3MTgzNDEzMTgsNjQ2OD
-QzNTMwXX0=
+eyJoaXN0b3J5IjpbLTk3NjM3MjAxMiwtOTMxODg1MjYyLDcxOD
+M0MTMxOCw2NDY4NDM1MzBdfQ==
 -->
